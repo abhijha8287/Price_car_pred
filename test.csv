@@ -1,0 +1,803 @@
+id,brand,model,model_year,milage,fuel_type,ext_col,int_col,accident,clean_title,engine_displacement_l,engine_cylinders,transmission_type
+3208,Buick,Envision Preferred,2021,"20,104 mi.",Gasoline,Burnished Bronze Metallic,Ebony,None reported,Yes,2.0,4.0,Automatic
+3209,INFINITI,Q50 3.0T Premium,2016,"49,872 mi.",Gasoline,Gray,Black,At least 1 accident or damage reported,Yes,3.0,6.0,Automatic
+3210,Cadillac,CTS Performance,2014,"34,988 mi.",Gasoline,Red,Black,None reported,Yes,3.6,6.0,Automatic
+3211,Mercedes-Benz,SLC 300 Base,2019,"23,900 mi.",Gasoline,White,Black,None reported,Yes,2.0,4.0,Automatic
+3212,Chevrolet,Malibu LTZ,2010,"55,900 mi.",Gasoline,Beige,Beige,None reported,Yes,3.6,6.0,Other
+3213,Mercedes-Benz,AMG E 53 Base 4MATIC,2021,"15,615 mi.",Hybrid,Gray,Black,None reported,Yes,3.0,6.0,Automatic
+3214,Hyundai,Tucson SE,2007,"16,200 mi.",Gasoline,Gold,Beige,None reported,Yes,2.7,6.0,Automatic
+3215,Volkswagen,Golf SportWagen TSI S 4-Door,2016,"127,770 mi.",Gasoline,White,Beige,None reported,Yes,1.8,4.0,Manual
+3216,Lexus,RX 450h Base,2022,"15,833 mi.",Hybrid,White,Beige,None reported,Yes,3.5,6.0,Other
+3217,Hyundai,Elantra N Base,2023,"3,800 mi.",Gasoline,White,Black,None reported,Yes,2.0,4.0,Manual
+3218,Volkswagen,Beetle 2.0T Final Edition SE,2019,"32,000 mi.",Gasoline,Gray,Black,None reported,Yes,2.0,4.0,Other
+3219,BMW,528 i xDrive,2016,"120,000 mi.",Gasoline,White,White,None reported,Yes,2.0,4.0,Automatic
+3220,Chevrolet,Camaro 2SS,2022,"7,458 mi.",Gasoline,Red,Black,None reported,Yes,6.2,8.0,Manual
+3221,Mercedes-Benz,Sprinter High Roof,2015,"1,500 mi.",Diesel,White,Gray,None reported,Yes,3.0,6.0,Automatic
+3222,Jeep,Wrangler Unlimited Rubicon,2013,"181,830 mi.",Gasoline,Black,Black,None reported,Yes,3.6,6.0,Manual
+3223,Porsche,Cayman GT4,2016,"15,168 mi.",Gasoline,White,Black,None reported,Yes,3.8,6.0,Manual
+3224,BMW,X6 M Base,2018,"54,293 mi.",Gasoline,Black,Beige,At least 1 accident or damage reported,Yes,4.4,8.0,Automatic
+3225,Honda,Insight EX,2020,"64,200 mi.",Hybrid,White,Black,At least 1 accident or damage reported,Yes,1.5,4.0,Other
+3226,BMW,M340 i xDrive,2021,"34,967 mi.",Hybrid,Blue,Beige,At least 1 accident or damage reported,Yes,3.0,6.0,Automatic
+3227,Acura,Integra w/A-Spec Tech Package,2023,"3,574 mi.",Gasoline,Apex Blue,Orchid,None reported,,1.5,,Other
+3228,Mazda,Mazda3 Touring,2018,"28,333 mi.",Gasoline,Blue,Black,None reported,Yes,2.5,4.0,Other
+3229,Maserati,GranTurismo Base,2008,"70,000 mi.",Gasoline,Blue,Brown,At least 1 accident or damage reported,Yes,4.2,8.0,Automatic
+3230,Toyota,Highlander Hybrid Limited,2006,"264,893 mi.",Hybrid,Gold,Beige,At least 1 accident or damage reported,Yes,3.3,6.0,Automatic
+3231,Ford,Expedition Max Limited,2021,"30,918 mi.",Gasoline,White,Beige,None reported,Yes,3.5,6.0,Automatic
+3232,Audi,SQ5 3.0T Premium Plus,2019,"22,300 mi.",Gasoline,Blue,Gray,None reported,Yes,3.0,6.0,Automatic
+3233,Porsche,911 Carrera 4 Cabriolet,2003,"87,600 mi.",Gasoline,Black,Black,At least 1 accident or damage reported,Yes,3.6,6.0,Other
+3234,BMW,M5 Base,2008,"77,750 mi.",Gasoline,Silver,Silver,None reported,Yes,5.0,10.0,Automatic
+3235,Hyundai,Genesis Coupe 2.0T R-Spec,2013,"55,000 mi.",Gasoline,White,Red,,,2.0,4.0,Manual
+3236,BMW,550 i xDrive,2016,"76,400 mi.",Gasoline,Black,Black,At least 1 accident or damage reported,Yes,4.4,8.0,Automatic
+3237,MINI,Cooper Base,2003,"103,726 mi.",Gasoline,Red,Gray,At least 1 accident or damage reported,Yes,1.6,4.0,Manual
+3238,Mitsubishi,Lancer DE,2009,"143,346 mi.",Gasoline,Black,Black,At least 1 accident or damage reported,Yes,2.0,4.0,Manual
+3239,Nissan,Pathfinder SL,2015,"115,000 mi.",Gasoline,Gray,Black,None reported,Yes,3.5,6.0,Automatic
+3240,RAM,2500 Big Horn,2014,"124,700 mi.",Gasoline,Silver,–,None reported,Yes,6.4,8.0,Automatic
+3241,Mercedes-Benz,S-Class S 560 4MATIC,2019,"49,500 mi.",Gasoline,Black,Beige,None reported,Yes,4.0,8.0,Automatic
+3242,Ford,F-150 Lariat,2016,"117,000 mi.",Gasoline,White,Black,None reported,Yes,3.5,6.0,Automatic
+3243,Lexus,RC 350 Base,2015,"73,800 mi.",Gasoline,Black,Black,None reported,,3.5,6.0,Automatic
+3244,INFINITI,G37 Sport,2008,"63,496 mi.",Gasoline,Black,Black,None reported,Yes,3.7,6.0,Manual
+3245,GMC,Acadia SLE,2021,"26,000 mi.",Gasoline,White,Black,None reported,Yes,2.0,4.0,Automatic
+3246,GMC,Yukon SLT,2002,"222,600 mi.",Gasoline,Gray,Beige,None reported,Yes,4.8,8.0,Automatic
+3247,Mercedes-Benz,AMG C 63 S,2021,"13,650 mi.",Gasoline,Blue,Black,None reported,Yes,4.0,8.0,Automatic
+3248,Nissan,Leaf SV PLUS,2023,"5,121 mi.",,Brilliant Silver Metallic,Black,None reported,Yes,,,Automatic
+3249,BMW,X5 xDrive50i,2016,"79,995 mi.",Gasoline,Black,Black,None reported,Yes,4.4,8.0,Other
+3250,Toyota,Land Cruiser Base,2000,"209,193 mi.",Gasoline,Black,Beige,None reported,Yes,4.7,8.0,Automatic
+3251,Land,Rover Defender S,2023,"15,200 mi.",Gasoline,White,Black,None reported,Yes,2.0,4.0,Automatic
+3252,Land,Rover Defender SE,2022,"46,000 mi.",Hybrid,Green,Beige,None reported,Yes,3.0,6.0,Automatic
+3253,GMC,Sierra 2500 AT4,2020,"52,673 mi.",Diesel,Black,Beige,None reported,Yes,6.6,8.0,Automatic
+3254,Mercedes-Benz,SL-Class SL63 AMG Roadster,2009,"56,000 mi.",Gasoline,Black,Black,None reported,Yes,6.3,8.0,Automatic
+3255,Ford,Explorer XLT,2020,"67,015 mi.",Gasoline,Oxford White,Sandstone,None reported,,2.3,4.0,Automatic
+3256,BMW,Z4 3.0si,2008,"59,257 mi.",Gasoline,Gray,Black,None reported,Yes,3.0,6.0,Manual
+3257,Acura,ILX 2.0L w/Premium Package,2015,"75,000 mi.",Gasoline,Gold,Beige,None reported,Yes,2.0,4.0,Automatic
+3258,Volkswagen,Beetle 1.8T,2016,"30,000 mi.",Gasoline,Blue,Beige,At least 1 accident or damage reported,Yes,1.8,4.0,Other
+3259,Chevrolet,Impala 2LZ,2018,"71,312 mi.",Gasoline,Black,Black,None reported,Yes,3.6,6.0,Automatic
+3260,Toyota,86 860 Special Edition,2017,"87,500 mi.",Gasoline,Silver,Black,None reported,Yes,2.0,4.0,Automatic
+3261,Porsche,Cayman S,2006,"31,075 mi.",Gasoline,Black,Black / Stone Grey,None reported,Yes,3.4,,Automatic
+3262,Subaru,Ascent Touring 7-Passenger,2020,"40,971 mi.",Gasoline,Blue,Brown,None reported,Yes,2.4,4.0,Other
+3263,Chevrolet,Camaro 2SS,2018,"75,151 mi.",Gasoline,Gray,Black,At least 1 accident or damage reported,Yes,6.2,8.0,Manual
+3264,Tesla,Model S 85,2014,"96,800 mi.",,Blue,Black,None reported,Yes,,,Automatic
+3265,Audi,TT 2.0T Premium,2012,"64,549 mi.",Gasoline,Silver,Black,None reported,Yes,2.0,4.0,Other
+3266,Land,Rover Range Rover Sport SVR,2018,"56,006 mi.",Gasoline,Silver,White,None reported,Yes,5.0,8.0,Other
+3267,BMW,X6 xDrive35i,2013,"90,000 mi.",Gasoline,White,Red,None reported,Yes,3.0,6.0,Automatic
+3268,Ford,Expedition Limited,2021,"29,830 mi.",Gasoline,Magnetic Metallic,Ebony,None reported,,3.5,6.0,Automatic
+3269,BMW,M3 Base,2009,"78,414 mi.",Gasoline,Silver,Gray,At least 1 accident or damage reported,Yes,4.0,8.0,Automatic
+3270,Volkswagen,Touareg V6 Executive,2017,"50,600 mi.",Gasoline,Red,Brown,At least 1 accident or damage reported,Yes,3.6,6.0,Automatic
+3271,Honda,Civic EX,2008,"190,640 mi.",Gasoline,Silver,Silver,At least 1 accident or damage reported,Yes,1.8,4.0,Manual
+3272,Ford,Bronco Badlands Advanced,2022,"4,200 mi.",Gasoline,Blue,Black,None reported,Yes,2.7,6.0,Automatic
+3273,Toyota,Highlander XLE,2020,"35,000 mi.",Gasoline,Silver,Black,None reported,Yes,3.5,6.0,Automatic
+3274,BMW,Z4 2.5i,2004,"94,500 mi.",Gasoline,Gray,Black,None reported,Yes,2.5,6.0,Manual
+3275,MINI,Countryman Cooper S ALL4,2018,"12,370 mi.",Gasoline,Blue,Black,None reported,Yes,2.0,4.0,Automatic
+3276,Jeep,Wrangler X,2005,"162,482 mi.",Gasoline,Orange,Gray,None reported,Yes,4.0,6.0,Manual
+3277,Mazda,CX-30 Preferred,2020,"9,927 mi.",Gasoline,Snowflake White Pearl,Black,None reported,Yes,2.5,4.0,Automatic
+3278,Jeep,Gladiator Rubicon,2020,"38,000 mi.",Gasoline,Black,Black,None reported,Yes,3.6,6.0,Automatic
+3279,Maserati,Quattroporte S Q4 GranLusso,2018,"57,500 mi.",Gasoline,White,Brown,None reported,Yes,3.0,6.0,Automatic
+3280,Mercedes-Benz,GLE 450 GLE 450,2022,"24,906 mi.",Hybrid,Selenite Grey Metallic,Black,None reported,,3.0,,Automatic
+3281,Hyundai,Santa Fe SE,2007,"145,000 mi.",Gasoline,Blue,Gray,At least 1 accident or damage reported,Yes,3.3,6.0,Automatic
+3282,Mazda,CX-9 Touring Plus,2023,"1,930 mi.",Gasoline,Jet Black Mica,Black,At least 1 accident or damage reported,Yes,2.5,4.0,Automatic
+3283,Ford,Expedition Limited,2013,"163,500 mi.",E85 Flex Fuel,Gray,Black,None reported,Yes,5.4,8.0,Automatic
+3284,Hyundai,Tucson Hybrid SEL Convenience,2023,"3,402 mi.",Hybrid,White,Black,None reported,Yes,1.6,4.0,Automatic
+3285,Ford,F-150 Platinum,2015,"85,000 mi.",Gasoline,White,Black,None reported,Yes,3.5,6.0,Automatic
+3286,Mitsubishi,Lancer Sportback ES,2011,"113,000 mi.",Gasoline,White,Black,None reported,Yes,2.0,4.0,Manual
+3287,Ford,Shelby GT500 Base,2022,"2,050 mi.",Gasoline,Gray,Black,None reported,Yes,5.2,8.0,Other
+3288,Porsche,Cayenne Base,2019,"59,338 mi.",Gasoline,Black,Black,None reported,Yes,3.0,6.0,Other
+3289,Tesla,Model Y Performance,2021,"11,200 mi.",,White,Black,None reported,Yes,,,Automatic
+3290,BMW,X3 M40i,2019,"36,438 mi.",Gasoline,Alpine White,Oyster W/Contrast,None reported,,3.0,,Automatic
+3291,Mercedes-Benz,SL-Class SL550 Roadster,2009,"60,100 mi.",Gasoline,Black,Black,None reported,Yes,5.5,8.0,Automatic
+3292,Buick,Enclave Essence,2020,"55,403 mi.",Gasoline,Red,Gray,At least 1 accident or damage reported,Yes,3.6,6.0,Automatic
+3293,BMW,i3 120Ah w/Range Extender,2019,"16,975 mi.",,Black,Black,None reported,Yes,65.0,,Automatic
+3294,Ford,F-150 Lariat,2018,"65,441 mi.",Gasoline,Gray,Black,None reported,Yes,2.7,6.0,Automatic
+3295,Kia,Sorento LX,2014,"46,628 mi.",Gasoline,Snow White Pearl,Beige,None reported,,2.4,4.0,Automatic
+3296,Mercedes-Benz,S-Class S 580 4MATIC,2022,"7,968 mi.",Hybrid,White,White,None reported,Yes,4.0,8.0,Automatic
+3297,Chevrolet,Trailblazer SS,2007,"107,800 mi.",Gasoline,Black,Black,At least 1 accident or damage reported,Yes,6.0,8.0,Automatic
+3298,Toyota,GR86 Base,2022,"13,400 mi.",Gasoline,Silver,Black,None reported,Yes,2.4,4.0,Automatic
+3299,Hummer,H2 SUT,2006,"89,900 mi.",Gasoline,Red,Beige,None reported,Yes,6.0,8.0,Automatic
+3300,Volkswagen,New Beetle GLS,2001,"63,250 mi.",Gasoline,Yellow,Yellow,None reported,Yes,2.0,4.0,Automatic
+3301,Mercedes-Benz,GLS 450 Base 4MATIC,2018,"62,808 mi.",Gasoline,Black,–,At least 1 accident or damage reported,,3.0,,Automatic
+3302,Jeep,Wrangler Sport,2016,"86,250 mi.",Gasoline,White,Black,None reported,Yes,3.6,6.0,Automatic
+3303,Jaguar,XKR Base,2007,"50,000 mi.",Gasoline,Black,Beige,At least 1 accident or damage reported,Yes,4.2,8.0,Other
+3304,Ford,F-250 King Ranch,2020,"36,500 mi.",Diesel,Gray,Brown,None reported,Yes,6.7,8.0,Automatic
+3305,Mercedes-Benz,S-Class S 550 4MATIC,2016,"67,280 mi.",Gasoline,White,Black,None reported,Yes,4.7,8.0,Automatic
+3306,Porsche,911 R,2016,"12,454 mi.",Gasoline,Purple,Black,None reported,Yes,4.0,6.0,Manual
+3307,Cadillac,XTS Luxury,2013,"152,000 mi.",Gasoline,Black,Gray,At least 1 accident or damage reported,Yes,3.6,6.0,Automatic
+3308,BMW,340 i,2018,"44,261 mi.",Gasoline,Gray,Black,None reported,,3.0,,Automatic
+3309,Chrysler,300 S,2012,"53,000 mi.",Gasoline,Black,Black,At least 1 accident or damage reported,Yes,3.6,6.0,Other
+3310,Ford,Fusion SE,2014,"80,800 mi.",Gasoline,Blue,Beige,None reported,Yes,2.5,4.0,Automatic
+3311,Volkswagen,Golf Auto TSI S,2015,"107,543 mi.",Gasoline,Black,Black,None reported,Yes,1.8,4.0,Other
+3312,Ford,Bronco Sport Big Bend,2021,"30,176 mi.",Gasoline,Black,Medium Dark Slate,None reported,Yes,1.5,3.0,Automatic
+3313,Jeep,Cherokee X,2022,"9,601 mi.",Gasoline,Sting Gray Clearcoat,Black,None reported,,3.2,6.0,Automatic
+3314,Dodge,Challenger R/T,2014,"92,861 mi.",Gasoline,Gray,Red,None reported,Yes,5.7,8.0,Automatic
+3315,BMW,X7 xDrive40i,2020,"46,000 mi.",Gasoline,Black,Black,None reported,Yes,3.0,6.0,Other
+3316,Mercedes-Benz,SL-Class SL500 Roadster,2004,"35,400 mi.",Gasoline,Black,Gray,None reported,Yes,5.0,8.0,Automatic
+3317,Porsche,Cayenne Turbo,2017,"70,800 mi.",Gasoline,White,Black,None reported,Yes,4.8,8.0,Other
+3318,Subaru,Legacy 2.5 GT spec.B,2008,"94,000 mi.",Gasoline,Gray,Blue,None reported,Yes,2.5,4.0,Manual
+3319,GMC,Sierra 1500 SLE,2014,"100,080 mi.",E85 Flex Fuel,White,Gray,None reported,Yes,4.3,6.0,Automatic
+3320,Mercedes-Benz,CLK-Class CLK 350,2009,"77,925 mi.",Gasoline,Silver,Black,None reported,Yes,3.5,6.0,Other
+3321,Audi,Q8 55 Premium,2020,"34,300 mi.",Hybrid,Gray,Brown,None reported,Yes,3.0,6.0,Automatic
+3322,Kia,Optima Hybrid LX,2013,"103,111 mi.",Hybrid,Silver,Beige,At least 1 accident or damage reported,Yes,2.4,4.0,Automatic
+3323,Jeep,Renegade Trailhawk,2017,"78,717 mi.",Gasoline,Black,Black,None reported,Yes,2.4,4.0,Automatic
+3324,Cadillac,DeVille Base,1994,"47,000 mi.",–,White,Blue,None reported,Yes,,,Automatic
+3325,Jeep,Grand Cherokee Limited,2018,"49,924 mi.",Gasoline,White,Black,None reported,Yes,3.6,6.0,Automatic
+3326,Alfa,Romeo Stelvio Quadrifoglio,2019,"26,500 mi.",Gasoline,Gray,Black,None reported,Yes,2.9,6.0,Automatic
+3327,Hummer,H3 Base,2007,"201,000 mi.",Gasoline,White,Black,At least 1 accident or damage reported,Yes,3.7,5.0,Automatic
+3328,Chevrolet,Silverado 1500 LT Trail Boss,2021,"48,641 mi.",Gasoline,Silver Ice Metallic,Jet Black,None reported,,5.3,8.0,Automatic
+3329,Audi,S4 Base,2007,"93,000 mi.",Gasoline,Black,Black,At least 1 accident or damage reported,Yes,4.2,8.0,Manual
+3330,Chevrolet,Corvette Stingray w/1LT,2023,"3,273 mi.",Gasoline,Black,Red,None reported,Yes,6.2,8.0,Other
+3331,Dodge,Ram 2500 Laramie Quad Cab,2004,"148,000 mi.",Diesel,Black,Beige,None reported,Yes,5.9,6.0,Automatic
+3332,Ford,Bronco Sport Outer Banks,2021,"31,654 mi.",Gasoline,Rapid Red Metallic Tinted Clearcoat,Navy Pier,None reported,,1.5,3.0,Automatic
+3333,Lincoln,Aviator Reserve AWD,2020,"51,247 mi.",Gasoline,Magnetic Gray Clearcoat,Roast,None reported,,3.0,,Automatic
+3334,Nissan,350Z Enthusiast,2005,"130,307 mi.",Gasoline,Blue,Black,None reported,Yes,3.5,6.0,Automatic
+3335,Jeep,Wrangler Sport,2010,"149,460 mi.",Gasoline,Black,Black,None reported,Yes,3.8,6.0,Automatic
+3336,Chevrolet,Suburban 1500 LS,2004,"171,750 mi.",E85 Flex Fuel,White,Beige,At least 1 accident or damage reported,Yes,5.3,8.0,Automatic
+3337,Chrysler,300 S,2014,"121,500 mi.",Gasoline,Blue,Black,None reported,Yes,5.7,8.0,Automatic
+3338,Nissan,Pathfinder SV,2019,"122,009 mi.",Gasoline,Gray,Black,None reported,,3.5,,Automatic
+3339,Land,Rover Range Rover Autobiography,2023,"1,148 mi.",Gasoline,Carpathian Grey,Ebony,None reported,,4.4,8.0,Automatic
+3340,Subaru,Forester 2.5 X,2004,"210,703 mi.",Gasoline,Green,Beige,,,2.5,4.0,Manual
+3341,Land,Rover Range Rover Sport HSE,2019,"65,019 mi.",Gasoline,Black,Beige,None reported,Yes,3.0,6.0,Automatic
+3342,Ford,F-150 XLT,2019,"69,800 mi.",E85 Flex Fuel,Silver,Gray,None reported,Yes,5.0,8.0,Automatic
+3343,Pontiac,Solstice GXP,2008,"38,100 mi.",Gasoline,Orange,Black,None reported,Yes,2.0,4.0,Manual
+3344,FIAT,500e Battery Electric,2017,"33,812 mi.",,Silver,Black,None reported,Yes,,,Automatic
+3345,Porsche,Macan Turbo,2021,"14,526 mi.",Gasoline,Black,–,None reported,,2.9,,Automatic
+3346,BMW,i3 Base w/Range Extender,2014,"74,500 mi.",,White,Gray,None reported,Yes,65.0,,Automatic
+3347,BMW,X5 3.0si,2007,"99,700 mi.",Gasoline,Black,Black,None reported,Yes,3.0,6.0,Automatic
+3348,Aston,Martin DBS Superleggera,2019,"22,770 mi.",Gasoline,Silver,Black,None reported,Yes,5.2,12.0,Automatic
+3349,Mercedes-Benz,R-Class R 350 4MATIC,2008,"120,000 mi.",Gasoline,Silver,Black,None reported,Yes,3.5,6.0,Automatic
+3350,Lincoln,MKX Base,2010,"156,000 mi.",Gasoline,Black,Black,At least 1 accident or damage reported,Yes,3.5,6.0,Automatic
+3351,Lexus,RX 450h F SPORT Handling,2021,"31,365 mi.",Hybrid,Beige,Red,None reported,,3.5,,Other
+3352,Nissan,Titan SE,2009,"127,600 mi.",E85 Flex Fuel,Brown,Gray,None reported,Yes,5.6,8.0,Automatic
+3353,Ford,Mustang V6 Premium,2013,"62,500 mi.",Gasoline,Black,Black,None reported,Yes,3.7,6.0,Manual
+3354,Lincoln,MKT Base,2016,"140,200 mi.",Gasoline,Black,Black,None reported,Yes,3.7,6.0,Automatic
+3355,Tesla,Model 3 Long Range,2018,"24,360 mi.",,Black,White,None reported,Yes,,,Automatic
+3356,Dodge,Durango GT,2022,"24,778 mi.",Gasoline,Octane Red Pearlcoat,Black,At least 1 accident or damage reported,,3.6,6.0,Automatic
+3357,Porsche,911 Turbo Cabriolet,2009,"13,500 mi.",Gasoline,Gray,Black,None reported,Yes,3.6,6.0,Manual
+3358,RAM,1500 Laramie,2022,"16,744 mi.",Gasoline,Delmonico Red Pearlcoat,Black,None reported,,5.7,8.0,Automatic
+3359,Chevrolet,Silverado 2500 High Country,2022,"16,000 mi.",Diesel,Black,Black,At least 1 accident or damage reported,Yes,6.6,8.0,Automatic
+3360,Ford,Edge SE,2020,"71,200 mi.",Gasoline,White,Beige,None reported,Yes,2.0,4.0,Automatic
+3361,Chevrolet,Corvette Stingray w/2LT,2021,"24,670 mi.",Gasoline,White,Brown,None reported,Yes,6.2,8.0,Other
+3362,Chevrolet,Camaro 1SS,2019,"19,200 mi.",Gasoline,Orange,Black,None reported,Yes,6.2,8.0,Manual
+3363,Chrysler,Pacifica Hybrid Touring L,2022,"61,494 mi.",Hybrid,Bright White Clearcoat,Black,None reported,,3.6,6.0,Automatic
+3364,Pontiac,Solstice GXP,2009,"122,348 mi.",Gasoline,Red,Black,At least 1 accident or damage reported,Yes,2.0,4.0,Automatic
+3365,GMC,Acadia SLT-1,2016,"119,000 mi.",Gasoline,Gold,Brown,None reported,Yes,3.6,6.0,Automatic
+3366,Land,Rover Range Rover Evoque S,2020,"40,237 mi.",Gasoline,Carpathian Grey Premium Metallic,Cloud,None reported,,2.0,,Automatic
+3367,Audi,Q5 2.0T Premium Plus,2015,"118,500 mi.",E85 Flex Fuel,Silver,Black,At least 1 accident or damage reported,Yes,2.0,4.0,Automatic
+3368,Lexus,GX 460 Base,2020,"48,210 mi.",Gasoline,Nebula Gray Pearl,Rioja Red,At least 1 accident or damage reported,Yes,4.6,8.0,Automatic
+3369,Maserati,GranTurismo Sport,2015,"45,000 mi.",Gasoline,Black,Black,None reported,Yes,4.7,8.0,Automatic
+3370,Mercedes-Benz,G 550 4x4 Squared Base,2018,"14,381 mi.",Gasoline,Designo Magno Matte,Black,None reported,,4.0,8.0,Automatic
+3371,Ford,Fusion Hybrid Base,2012,"158,366 mi.",Hybrid,Gray,Black,At least 1 accident or damage reported,Yes,2.5,4.0,Automatic
+3372,Acura,TLX A-Spec,2021,"16,878 mi.",Gasoline,Red,Ebony,None reported,Yes,2.0,4.0,Automatic
+3373,Toyota,Sequoia Limited,2011,"183,000 mi.",Gasoline,Gold,Beige,None reported,Yes,5.7,8.0,Automatic
+3374,RAM,1500 Big Horn,2022,"19,376 mi.",Gasoline,Bright White Clearcoat,Black,None reported,Yes,5.7,8.0,Automatic
+3375,GMC,Terrain SLT,2020,"55,018 mi.",Gasoline,Black,Black,At least 1 accident or damage reported,Yes,1.5,4.0,Automatic
+3376,Audi,S4 3.0T Premium Plus,2014,"102,370 mi.",Gasoline,Gray,Black,None reported,Yes,3.0,6.0,Automatic
+3377,Nissan,Xterra S,2008,"227,010 mi.",Gasoline,Gray,Gray,None reported,Yes,4.0,6.0,Automatic
+3378,Ford,F-150 Lariat,2021,"9,142 mi.",Hybrid,Black,Gray,None reported,Yes,3.5,6.0,Automatic
+3379,Porsche,911 Carrera 4S,2002,"119,500 mi.",Gasoline,Black,Black,At least 1 accident or damage reported,Yes,3.6,6.0,Manual
+3380,Lexus,RX 350 Base,2021,"20,598 mi.",Gasoline,Atomic Silver,Gray,At least 1 accident or damage reported,,3.5,6.0,Automatic
+3381,Mercedes-Benz,C-Class C 300 4MATIC,2021,"19,000 mi.",Gasoline,Blue,Beige,None reported,Yes,2.0,4.0,Automatic
+3382,Toyota,Sequoia SR5,2010,"154,860 mi.",Gasoline,Silver,Gray,None reported,Yes,4.6,8.0,Automatic
+3383,Chevrolet,Cruze LT,2012,"194,000 mi.",Gasoline,Gray,White,At least 1 accident or damage reported,Yes,1.4,4.0,Automatic
+3384,Land,Rover Discovery SE,2004,"145,000 mi.",Gasoline,Green,Beige,None reported,Yes,4.6,8.0,Automatic
+3385,BMW,535 i xDrive,2015,"58,664 mi.",Gasoline,Blue,Gray,At least 1 accident or damage reported,Yes,3.0,6.0,Automatic
+3386,Mercedes-Benz,AMG S 63 Base 4MATIC,2017,"86,101 mi.",Gasoline,Gray,Red,At least 1 accident or damage reported,Yes,5.5,8.0,Automatic
+3387,Toyota,Highlander SE,2018,"53,607 mi.",Gasoline,Midnight Black Metallic,Black,At least 1 accident or damage reported,,3.5,6.0,Automatic
+3388,BMW,335 i xDrive,2013,"82,849 mi.",Gasoline,Red,Black,None reported,Yes,3.0,6.0,Automatic
+3389,INFINITI,G37 Journey,2013,"33,300 mi.",Gasoline,Gray,Black,None reported,Yes,3.7,6.0,Automatic
+3390,Chevrolet,Camaro 2SS,2010,"68,000 mi.",Gasoline,Gray,Gray,At least 1 accident or damage reported,Yes,6.2,8.0,Automatic
+3391,Chevrolet,Silverado 3500 LTZ,2018,"92,149 mi.",Diesel,Black,Jet Black,,,6.6,8.0,Automatic
+3392,Cadillac,Escalade ESV Sport,2021,"36,500 mi.",Gasoline,White,Black,None reported,Yes,6.2,8.0,Other
+3393,BMW,435 i,2014,"126,500 mi.",Gasoline,White,Black,None reported,Yes,3.0,6.0,Automatic
+3394,Chevrolet,Camaro 1LT,2011,"111,000 mi.",Gasoline,Blue,Black,None reported,Yes,3.6,6.0,Automatic
+3395,Jeep,Wrangler Sport,2021,"11,756 mi.",Gasoline,Granite Crystal Metallic Clearcoat,Black,At least 1 accident or damage reported,,2.0,,Automatic
+3396,Land,Rover Range Rover Sport Supercharged,2008,"140,600 mi.",Gasoline,Red,Beige,None reported,Yes,4.2,8.0,Automatic
+3397,Toyota,86 Base,2020,"14,700 mi.",Gasoline,White,Black,None reported,Yes,2.0,4.0,Automatic
+3398,Maserati,GranTurismo Base,2013,"34,920 mi.",Gasoline,Gray,Brown,None reported,Yes,4.7,8.0,Automatic
+3399,Porsche,911 Carrera,2021,"7,400 mi.",Gasoline,Red,Black,,,3.0,6.0,Automatic
+3400,Nissan,Maxima SL,2007,"101,600 mi.",Gasoline,Silver,Black,None reported,Yes,3.5,6.0,Automatic
+3401,Mazda,Mazda3 i Touring,2014,"118,500 mi.",Gasoline,Silver,Black,At least 1 accident or damage reported,Yes,2.0,4.0,Manual
+3402,Audi,Q7 3.0T Premium Plus,2014,"96,273 mi.",Gasoline,Silver,Black,At least 1 accident or damage reported,Yes,3.0,6.0,Automatic
+3403,Lexus,GX 460 Base,2015,"106,000 mi.",Gasoline,Black,Beige,None reported,Yes,4.6,8.0,Automatic
+3404,Volvo,C40 Recharge Pure Electric Twin Ultimate,2023,"17,000 mi.",,Gray,Blue,None reported,Yes,,,Automatic
+3405,Dodge,Dakota Sport,1997,"285,000 mi.",Gasoline,White,Gray,None reported,Yes,5.2,8.0,Automatic
+3406,Cadillac,CT4 Luxury,2020,"35,200 mi.",Gasoline,Blue,Black,None reported,Yes,2.0,4.0,Automatic
+3407,Chevrolet,Suburban LT,2016,"98,000 mi.",E85 Flex Fuel,Gray,Gray,At least 1 accident or damage reported,Yes,5.3,8.0,Other
+3408,Cadillac,Escalade Luxury,2012,"114,500 mi.",E85 Flex Fuel,Black,Black,None reported,Yes,6.2,8.0,Automatic
+3409,Volkswagen,Golf GTI 2.0T Autobahn,2022,"6,400 mi.",Gasoline,Green,Black,None reported,Yes,2.0,4.0,Automatic
+3410,BMW,X3 xDrive30i,2020,"23,647 mi.",Gasoline,Black Sapphire Metallic,Canberra Beige,None reported,Yes,2.0,4.0,Automatic
+3411,Land,Rover Range Rover 3.0L Supercharged,2018,"38,020 mi.",Gasoline,White,Espresso,None reported,,5.0,,Automatic
+3412,Chevrolet,Silverado 2500 LTZ H/D Extended Cab,2008,"128,000 mi.",Gasoline,Beige,Black,None reported,Yes,6.0,8.0,Automatic
+3413,Kia,K900 5.0L,2017,"36,486 mi.",Gasoline,Black,Beige,At least 1 accident or damage reported,Yes,5.0,8.0,Automatic
+3414,Kia,Sportage LX,2014,"87,000 mi.",Gasoline,Black,Black,At least 1 accident or damage reported,Yes,2.4,4.0,Automatic
+3415,Chevrolet,Silverado 1500 LS,2003,"110,000 mi.",Gasoline,Green,Beige,None reported,Yes,4.8,8.0,Automatic
+3416,Cadillac,CTS 3.6L Premium,2014,"69,001 mi.",Gasoline,Red,Black,None reported,Yes,3.6,6.0,Automatic
+3417,Porsche,911 Carrera,1995,"49,900 mi.",–,Silver,Gray,At least 1 accident or damage reported,Yes,,,Manual
+3418,Jeep,Grand Cherokee L Limited,2022,"31,700 mi.",Gasoline,Gray,Black,None reported,Yes,3.6,6.0,Automatic
+3419,Maserati,Ghibli Base,2015,"73,000 mi.",Gasoline,Black,Brown,None reported,Yes,3.0,6.0,Automatic
+3420,Tesla,Model Y Long Range,2020,"23,100 mi.",,Blue,White,None reported,Yes,,,Automatic
+3421,Tesla,Model Y Long Range,2023,"5,844 mi.",,White,Black,None reported,Yes,,,Automatic
+3422,Jeep,Wrangler SE,2003,"92,000 mi.",Gasoline,Gold,Black,None reported,Yes,2.4,4.0,Manual
+3423,Lincoln,Corsair Reserve,2021,"29,336 mi.",Gasoline,Black,Sandstone,None reported,,2.0,4.0,Automatic
+3424,Mercedes-Benz,SLK-Class SLK 250,2015,"49,000 mi.",Gasoline,Blue,Beige,None reported,Yes,1.8,4.0,Automatic
+3425,Rolls-Royce,Cullinan,2022,115 mi.,Gasoline,–,Grace White,None reported,Yes,6.7,12.0,Automatic
+3426,Audi,TT 3.2 Cabriolet quattro,2008,"207,000 mi.",Gasoline,Black,Black,At least 1 accident or damage reported,Yes,3.2,6.0,Manual
+3427,Toyota,Tundra SR,2018,"51,000 mi.",Gasoline,Black,Gray,None reported,Yes,5.7,8.0,Automatic
+3428,Hyundai,Kona EV SEL,2019,"33,100 mi.",,Black,Black,None reported,Yes,,,Automatic
+3429,Cadillac,CTS Base,2005,"94,100 mi.",Gasoline,White,Beige,None reported,Yes,3.6,6.0,Manual
+3430,Saturn,Sky Red Line,2008,"37,000 mi.",Gasoline,Blue,Black,None reported,Yes,2.0,4.0,Automatic
+3431,BMW,X6 M Base,2022,"10,376 mi.",Gasoline,Ametrin Metallic,Black,None reported,,4.4,8.0,Automatic
+3432,Subaru,Outback Limited,2020,"44,600 mi.",Gasoline,Silver,Gray,None reported,Yes,2.5,4.0,Other
+3433,BMW,430 i,2021,"9,472 mi.",Gasoline,White,Blue,None reported,Yes,2.0,4.0,Automatic
+3434,Lexus,ES 350 Base,2016,"51,335 mi.",Gasoline,Silver,Black,At least 1 accident or damage reported,Yes,3.5,6.0,Automatic
+3435,Mercedes-Benz,S-Class S 65 AMG,2015,"95,428 mi.",Gasoline,Silver,Silver,None reported,Yes,6.0,12.0,Automatic
+3436,Ford,F-150 XL,2016,"107,000 mi.",E85 Flex Fuel,White,Gray,At least 1 accident or damage reported,Yes,5.0,8.0,Automatic
+3437,Honda,Civic Sport,2020,"121,212 mi.",Gasoline,White,Sport,At least 1 accident or damage reported,Yes,1.5,4.0,Automatic
+3438,Mercedes-Benz,C-Class C 300 4MATIC Sport,2015,"73,500 mi.",Gasoline,White,Black,None reported,Yes,2.0,4.0,Automatic
+3439,RAM,ProMaster 3500 High Roof,2021,"147,834 mi.",Gasoline,Bright White Clearcoat,Black,None reported,Yes,3.6,6.0,Automatic
+3440,BMW,740 i,2018,"40,989 mi.",Gasoline,Black,Gold,None reported,Yes,3.0,6.0,Automatic
+3441,Chevrolet,Corvette Stingray w/3LT,2021,"2,700 mi.",Gasoline,Blue,Blue,None reported,Yes,6.2,8.0,Other
+3442,Mazda,CX-30 Select,2021,"61,874 mi.",Gasoline,Jet Black Mica,Black,None reported,Yes,2.5,4.0,Automatic
+3443,Ford,Bronco Wildtrak Advanced,2023,"2,000 mi.",Gasoline,Black,Black,None reported,Yes,2.7,6.0,Automatic
+3444,Mercedes-Benz,C-Class C 63 AMG,2014,"84,500 mi.",Gasoline,White,Black,None reported,Yes,6.2,8.0,Automatic
+3445,Hyundai,Santa Fe SEL Plus 2.4,2019,"49,500 mi.",Gasoline,Silver,Gray,None reported,Yes,2.4,4.0,Automatic
+3446,Nissan,GT-R Premium,2010,"15,600 mi.",Gasoline,White,Black,None reported,Yes,3.8,6.0,Other
+3447,Honda,Ridgeline RTL-E,2019,"26,998 mi.",Gasoline,Black,Black,None reported,,3.5,6.0,Automatic
+3448,Dodge,Durango SLT,2004,"143,000 mi.",Gasoline,Beige,Beige,None reported,Yes,5.7,8.0,Automatic
+3449,Genesis,GV70 3.5T Sport,2022,"8,730 mi.",Gasoline,Alta White,Red,None reported,,3.5,6.0,Automatic
+3450,Lexus,GX 460 Base,2012,"167,000 mi.",Gasoline,Black,Beige,At least 1 accident or damage reported,Yes,4.6,8.0,Automatic
+3451,Volkswagen,Atlas Cross Sport 3.6L V6 SEL Premium,2021,"24,596 mi.",Gasoline,Deep Black Pearl Effect,Titan Black / Quarzit,None reported,,3.6,6.0,Automatic
+3452,Kia,Telluride SX,2023,"9,822 mi.",Gasoline,Midnight Black,Gray,None reported,,3.8,6.0,Automatic
+3453,Lincoln,Town Car Base,2004,"36,524 mi.",Gasoline,Black,Black,None reported,Yes,4.6,8.0,Automatic
+3454,Chevrolet,Corvette Base,1998,"134,000 mi.",Gasoline,Red,Beige,None reported,Yes,5.7,8.0,Automatic
+3455,Jeep,Wrangler Sport,1997,"131,000 mi.",Gasoline,Green,Gray,At least 1 accident or damage reported,Yes,4.0,6.0,Manual
+3456,Tesla,Model Y Performance,2023,"6,188 mi.",,Gray,White,None reported,Yes,,,Automatic
+3457,Land,Rover LR2 HSE,2010,"100,472 mi.",Gasoline,Gray,Beige,None reported,Yes,3.2,6.0,Automatic
+3458,Chevrolet,Silverado 1500 Custom Trail Boss,2021,"51,351 mi.",Gasoline,Black,Jet Black,None reported,Yes,5.3,8.0,Automatic
+3459,Chevrolet,Colorado ZR2,2018,"76,500 mi.",Gasoline,White,Black,None reported,Yes,3.6,6.0,Automatic
+3460,Porsche,911 Carrera,2023,"1,500 mi.",Gasoline,Silver,Black,None reported,Yes,3.0,6.0,Automatic
+3461,BMW,540 i xDrive,2019,"36,000 mi.",Gasoline,Gray,Black,At least 1 accident or damage reported,Yes,3.0,6.0,Automatic
+3462,RAM,1500 Laramie,2022,"34,121 mi.",Gasoline,Granite Crystal Clearcoat Metallic,Black,None reported,,5.7,8.0,Automatic
+3463,Lexus,GX 470 Base,2008,"123,500 mi.",Gasoline,White,Gray,At least 1 accident or damage reported,Yes,4.7,8.0,Automatic
+3464,Mazda,MazdaSpeed3 Grand Touring,2008,"162,000 mi.",Gasoline,Black,Black,At least 1 accident or damage reported,Yes,2.3,4.0,Manual
+3465,Tesla,Model X P90D,2016,"91,000 mi.",,Silver,White,None reported,Yes,,,Automatic
+3466,Audi,Q3 45 S line Premium Plus,2021,"9,835 mi.",Gasoline,Glacier White Metallic,Black,None reported,,2.0,4.0,Automatic
+3467,Mercedes-Benz,GLB 250 Base 4MATIC,2023,"1,219 mi.",Gasoline,Midnight Black,Classic Red,None reported,,2.0,4.0,Automatic
+3468,Pontiac,Firebird Trans Am,2001,"64,000 mi.",Gasoline,Blue,Beige,None reported,Yes,5.7,8.0,Manual
+3469,BMW,X7 xDrive40i,2021,"9,200 mi.",Hybrid,White,Brown,At least 1 accident or damage reported,Yes,3.0,6.0,Automatic
+3470,Subaru,BRZ Limited,2022,"10,500 mi.",Gasoline,Gray,–,None reported,Yes,2.4,4.0,Other
+3471,Ford,Expedition EL XLT,2011,"195,500 mi.",E85 Flex Fuel,White,Beige,None reported,Yes,5.4,8.0,Automatic
+3472,Audi,S6 4.0T Prestige,2013,"53,900 mi.",Gasoline,Black,Black,,,4.0,8.0,Automatic
+3473,Chevrolet,Corvette Z06 w/2LZ,2023,202 mi.,Gasoline,White,Red,None reported,Yes,5.5,8.0,Other
+3474,Ford,F-150 Lariat,2021,"33,080 mi.",Gasoline,White,Black,None reported,Yes,2.7,6.0,Automatic
+3475,Nissan,370Z Touring,2009,"37,500 mi.",Gasoline,Silver,Orange,None reported,Yes,3.7,6.0,Manual
+3476,Chevrolet,Suburban 2500 LS,2006,"60,000 mi.",Gasoline,Brown,Brown,At least 1 accident or damage reported,Yes,8.1,8.0,Automatic
+3477,RAM,1500 Longhorn,2023,"4,285 mi.",Gasoline,Delmonico Red Pearlcoat,Black / Saddle,None reported,Yes,5.7,8.0,Automatic
+3478,BMW,135 is,2013,"29,400 mi.",Gasoline,White,Beige,None reported,Yes,3.0,6.0,Manual
+3479,Porsche,Panamera Edition,2016,"77,945 mi.",Gasoline,Blue,Beige,At least 1 accident or damage reported,Yes,3.6,6.0,Automatic
+3480,Chrysler,200 Limited,2017,"100,600 mi.",–,Black,Black,None reported,Yes,,,Automatic
+3481,Mazda,Mazda3 FWD w/Preferred Package,2019,"60,800 mi.",Gasoline,Red,Beige,None reported,Yes,2.5,4.0,Automatic
+3482,Cadillac,Escalade Sport,2023,"8,532 mi.",Diesel,Black Raven,Jet Black,None reported,,3.0,6.0,Automatic
+3483,Ford,Fusion SE,2011,"114,323 mi.",Gasoline,Black,Black,None reported,Yes,2.5,4.0,Automatic
+3484,Porsche,911 R,2016,719 mi.,Gasoline,White,Black / Brown,None reported,Yes,4.0,,Manual
+3485,Ford,F-350 Lariat,2015,"162,000 mi.",Diesel,Red,Beige,None reported,Yes,6.7,8.0,Other
+3486,Jeep,Gladiator Overland,2021,"7,388 mi.",Gasoline,Firecracker Red Clearcoat,Black,None reported,Yes,3.6,6.0,Automatic
+3487,Mercedes-Benz,AMG C 63 S,2017,"60,000 mi.",Gasoline,Gray,Black,At least 1 accident or damage reported,Yes,4.0,8.0,Other
+3488,Toyota,Highlander Base,2001,"231,581 mi.",Gasoline,Beige,Beige,None reported,Yes,3.0,6.0,Automatic
+3489,Porsche,Panamera Edition,2016,"60,000 mi.",Gasoline,Gray,Black,None reported,Yes,3.6,6.0,Automatic
+3490,Lexus,HS 250h Premium,2010,"123,500 mi.",Hybrid,Red,Black,At least 1 accident or damage reported,Yes,2.4,4.0,Automatic
+3491,BMW,750 i,2017,"24,650 mi.",Gasoline,Silver,Black,None reported,Yes,4.4,8.0,Automatic
+3492,Mercury,Marauder Base,2003,"90,000 mi.",Gasoline,Blue,Beige,At least 1 accident or damage reported,Yes,4.6,8.0,Automatic
+3493,Tesla,Model X Plaid,2022,"15,000 mi.",,White,White,None reported,Yes,,,Automatic
+3494,Mercedes-Benz,S-Class S 63 AMG,2015,"20,394 mi.",Gasoline,Black,Black,At least 1 accident or damage reported,,5.5,,Automatic
+3495,INFINITI,Q50 Premium,2014,"127,356 mi.",Gasoline,Black,Black,At least 1 accident or damage reported,Yes,3.7,6.0,Automatic
+3496,Porsche,Macan S,2016,"50,000 mi.",Gasoline,Blue,Red,None reported,Yes,3.0,6.0,Automatic
+3497,Lexus,LX 570 Base,2013,"134,000 mi.",Gasoline,Gray,Black,At least 1 accident or damage reported,Yes,5.7,8.0,Automatic
+3498,Toyota,Highlander XLE,2018,"61,454 mi.",Gasoline,Silver,Gray,None reported,Yes,3.5,6.0,Automatic
+3499,Ford,F-250 Limited,2018,"64,000 mi.",Diesel,Red,Beige,None reported,Yes,6.7,8.0,Automatic
+3500,Cadillac,CTS-V Base,2017,"48,600 mi.",Gasoline,Black,Black,None reported,Yes,6.2,8.0,Other
+3501,Chevrolet,Corvette Base,2008,"51,855 mi.",Gasoline,Red,Red,None reported,Yes,6.2,8.0,Automatic
+3502,Chevrolet,Silverado 1500 LT,2019,"36,021 mi.",Gasoline,Cajun Red Tintcoat,Jet Black,,,2.7,4.0,Automatic
+3503,Jaguar,F-TYPE R,2018,"35,250 mi.",Gasoline,Green,Black,None reported,Yes,5.0,8.0,Automatic
+3504,Audi,e-tron Prestige,2019,"16,000 mi.",,White,Beige,At least 1 accident or damage reported,Yes,,,Automatic
+3505,Jeep,New Compass Trailhawk,2017,"119,000 mi.",Gasoline,Red,Black,None reported,Yes,2.4,4.0,Automatic
+3506,Chevrolet,Tahoe LT,2021,"71,536 mi.",Gasoline,Black,Jet Black,None reported,Yes,5.3,8.0,Automatic
+3507,BMW,M550 i xDrive,2018,"14,993 mi.",Gasoline,Gray,Black,None reported,Yes,4.4,8.0,Automatic
+3508,Jeep,Gladiator Overland,2020,"8,025 mi.",Gasoline,Firecracker Red Clearcoat,Black,None reported,Yes,3.6,6.0,Automatic
+3509,Porsche,Cayman Base,2007,"75,137 mi.",Gasoline,Black,Gray,At least 1 accident or damage reported,Yes,2.7,6.0,Manual
+3510,Porsche,Macan S,2016,"46,200 mi.",Gasoline,Gray,Gray,At least 1 accident or damage reported,Yes,3.0,6.0,Other
+3511,Hyundai,Tucson Limited,2020,"39,913 mi.",Gasoline,Black Noir Pearl,Beige,None reported,,2.4,4.0,Automatic
+3512,Buick,Envision Essence,2019,"47,839 mi.",Gasoline,Summit White,Ebony,None reported,Yes,2.5,4.0,Automatic
+3513,Chevrolet,Avalanche 1500 LTZ,2007,"75,124 mi.",E85 Flex Fuel,Red,Gray,None reported,Yes,5.3,8.0,Automatic
+3514,Lotus,Evora 400 Base,2017,"19,650 mi.",Gasoline,Silver,Red,None reported,Yes,3.5,6.0,Manual
+3515,Jeep,Gladiator Sport S,2020,"13,000 mi.",Gasoline,Gray,–,None reported,Yes,3.6,6.0,Automatic
+3516,Toyota,4Runner SR5,2019,"91,843 mi.",Gasoline,Blue,Black,At least 1 accident or damage reported,Yes,4.0,6.0,Automatic
+3517,BMW,530 i xDrive,2021,"60,942 mi.",Gasoline,Glacier Silver Metallic,Black,None reported,Yes,2.0,4.0,Automatic
+3518,Lexus,ES 350 Base,2019,"49,810 mi.",Gasoline,Gray,Black,At least 1 accident or damage reported,Yes,3.5,6.0,Automatic
+3519,Cadillac,Escalade Sport Platinum,2021,"38,500 mi.",Gasoline,White,Black,At least 1 accident or damage reported,Yes,6.2,8.0,Automatic
+3520,Cadillac,XTS Luxury,2018,"46,711 mi.",Gasoline,Silver,Black,At least 1 accident or damage reported,Yes,3.6,6.0,Automatic
+3521,Ford,F-250 Lariat,2017,"50,780 mi.",Diesel,White,Black,None reported,Yes,6.7,8.0,Automatic
+3522,Chevrolet,Corvette Grand Sport,2019,"13,100 mi.",Gasoline,Silver,Red,None reported,Yes,6.2,8.0,Manual
+3523,Lexus,IS 350 F Sport,2023,"20,121 mi.",Gasoline,Gray,Red,None reported,Yes,3.5,6.0,Automatic
+3524,Mercedes-Benz,GLA 250 Base 4MATIC,2018,"56,578 mi.",E85 Flex Fuel,White,Black,None reported,Yes,2.0,4.0,Automatic
+3525,Hyundai,Equus Signature,2011,"143,898 mi.",Gasoline,Gray,Brown,None reported,Yes,4.6,8.0,Automatic
+3526,Ford,E150 XLT,2013,"162,100 mi.",E85 Flex Fuel,Black,Gray,None reported,Yes,5.4,8.0,Automatic
+3527,Porsche,Macan GTS,2023,"6,483 mi.",Gasoline,Chalk,Black,None reported,,2.9,6.0,Automatic
+3528,Chevrolet,Corvette Stingray w/1LT,2021,"10,400 mi.",Gasoline,Silver,Black,None reported,Yes,6.2,8.0,Automatic
+3529,Mercedes-Benz,AMG GLE 63 S Coupe 4MATIC,2018,"71,500 mi.",Gasoline,White,White,None reported,Yes,5.5,8.0,Automatic
+3530,Chevrolet,Express 2500 Work Van,2017,"56,000 mi.",Gasoline,Blue,–,None reported,Yes,4.8,8.0,Automatic
+3531,Genesis,GV70 2.5T,2022,"20,319 mi.",Gasoline,White,Black,None reported,Yes,2.5,4.0,Other
+3532,Porsche,Panamera Turbo,2018,"29,850 mi.",Gasoline,Silver,Red,None reported,Yes,4.0,8.0,Automatic
+3533,Hyundai,Santa Fe Sport 2.0L Turbo,2018,"45,800 mi.",Gasoline,Silver,Black,At least 1 accident or damage reported,Yes,2.0,4.0,Automatic
+3534,Volvo,XC60 Recharge Plug-In Hybrid T8 Inscription,2022,"19,352 mi.",Plug-In Hybrid,Blue,Beige,None reported,Yes,2.0,4.0,Automatic
+3535,Cadillac,XTS Luxury,2019,"54,002 mi.",Gasoline,Black,Beige,At least 1 accident or damage reported,Yes,3.6,6.0,Automatic
+3536,Chevrolet,Trailblazer SS,2008,"161,000 mi.",Gasoline,Red,Black,At least 1 accident or damage reported,Yes,6.0,8.0,Automatic
+3537,Ford,Excursion Limited,2001,"239,000 mi.",Gasoline,White,–,None reported,Yes,6.8,10.0,Automatic
+3538,Audi,A6 3.0T Premium Plus,2016,"71,280 mi.",Gasoline,Silver,Black,None reported,Yes,3.0,6.0,Automatic
+3539,Porsche,Cayenne Base,2016,"110,000 mi.",Gasoline,White,White,At least 1 accident or damage reported,Yes,3.6,6.0,Automatic
+3540,Audi,A7 Premium Plus,2020,"25,361 mi.",Hybrid,Typhoon Gray,Black,None reported,,3.0,,Automatic
+3541,Audi,RS 7 4.0T Prestige,2016,"64,800 mi.",Gasoline,White,Brown,None reported,Yes,4.0,8.0,Automatic
+3542,BMW,X3 sDrive30i,2021,"12,800 mi.",Gasoline,Blue,Blue,None reported,Yes,2.0,4.0,Automatic
+3543,Jeep,Wrangler Unlimited Rubicon,2020,"49,990 mi.",Gasoline,Black,Black,None reported,Yes,2.0,4.0,Automatic
+3544,Chevrolet,Camaro 2LT,2017,"24,000 mi.",Gasoline,Yellow,Black,None reported,Yes,3.6,6.0,Manual
+3545,Volkswagen,Jetta S,2010,"99,000 mi.",Gasoline,Gray,Black,At least 1 accident or damage reported,Yes,2.5,5.0,Automatic
+3546,Ford,Mustang GT,2003,"83,000 mi.",Gasoline,Gray,Black,None reported,Yes,4.6,8.0,Automatic
+3547,Chrysler,Town & Country Touring-L,2013,"115,872 mi.",E85 Flex Fuel,Black,Black,None reported,Yes,3.6,6.0,Automatic
+3548,Mercedes-Benz,Maybach S S 600,2016,"108,500 mi.",Gasoline,White,Beige,None reported,Yes,6.0,12.0,Automatic
+3549,Kia,EV6 GT-Line,2022,"4,820 mi.",,Red,Black,None reported,Yes,,,Automatic
+3550,BMW,X6 xDrive35i,2009,"92,008 mi.",Gasoline,White,Black,None reported,Yes,3.0,6.0,Automatic
+3551,Porsche,911 Carrera S,2014,"30,000 mi.",Gasoline,Black,Brown,None reported,Yes,3.8,6.0,Automatic
+3552,Mercedes-Benz,AMG C 43 Base 4MATIC,2018,"41,500 mi.",Gasoline,White,Brown,At least 1 accident or damage reported,Yes,3.0,6.0,Automatic
+3553,RAM,1500 TRX,2022,"24,058 mi.",Gasoline,Flame Red Clearcoat,BLACK,None reported,,6.2,,Automatic
+3554,Porsche,911 GT2 RS,2018,"4,529 mi.",Gasoline,Black,Black,None reported,Yes,3.8,,Automatic
+3555,Acura,RSX Type S,2002,"80,000 mi.",Gasoline,Beige,Beige,At least 1 accident or damage reported,Yes,2.0,4.0,Manual
+3556,Mercedes-Benz,E-Class E 350,2014,"35,000 mi.",Gasoline,Red,Beige,None reported,Yes,3.5,6.0,Automatic
+3557,Volkswagen,Passat 2.0T SE,2020,"49,400 mi.",Gasoline,Black,Brown,None reported,Yes,2.0,4.0,Automatic
+3558,Porsche,718 Cayman GT4,2021,"2,100 mi.",Gasoline,Yellow,Black,,,4.0,6.0,Manual
+3559,Maserati,Quattroporte Sport GT,2007,"82,000 mi.",Gasoline,Black,Black,At least 1 accident or damage reported,Yes,4.2,8.0,Other
+3560,GMC,HUMMER EV Edition 1,2023,940 mi.,,White,Black,,,,,Automatic
+3561,Tesla,Model S 100D,2018,"65,000 mi.",,Blue,Black,None reported,Yes,,,Automatic
+3562,Honda,Civic Sport,2021,"42,750 mi.",Gasoline,Black,Black,None reported,Yes,1.5,4.0,Automatic
+3563,Porsche,911 Carrera S,2021,"7,008 mi.",Gasoline,Gray,Black,,,3.0,6.0,Automatic
+3564,Lexus,RX 450h Base,2017,"73,948 mi.",Hybrid,White,Beige,None reported,Yes,3.5,6.0,Automatic
+3565,Land,Rover Range Rover P530 SE,2023,"1,869 mi.",Gasoline,Eiger Grey,Deep Garnet,None reported,Yes,4.4,8.0,Automatic
+3566,Buick,Envision Essence,2020,"27,340 mi.",Gasoline,Summit White,Ebony,None reported,,2.5,4.0,Automatic
+3567,Dodge,Challenger SRT Hellcat,2020,"12,700 mi.",Gasoline,Black,Black,At least 1 accident or damage reported,Yes,6.2,8.0,Automatic
+3568,Ford,F-250 Lariat,2016,"122,650 mi.",Diesel,Gray,Black,None reported,Yes,6.7,8.0,Automatic
+3569,Mercedes-Benz,Metris Base,2021,"1,685 mi.",Gasoline,Gray,White,None reported,Yes,2.0,4.0,Automatic
+3570,Mazda,CX-9 Touring,2016,"127,131 mi.",Gasoline,Brown,–,At least 1 accident or damage reported,Yes,2.5,4.0,Automatic
+3571,Porsche,911 Carrera S,2015,"36,000 mi.",Gasoline,Black,Black,None reported,Yes,3.8,6.0,Automatic
+3572,Land,Rover Range Rover Sport HSE,2013,"81,648 mi.",Gasoline,Fuji White,–,None reported,,5.0,,Other
+3573,MINI,Cooper S Clubman Base,2009,"137,600 mi.",Gasoline,Gold,Black,None reported,Yes,1.6,4.0,Manual
+3574,Ford,F-250 Lariat,2015,"94,634 mi.",E85 Flex Fuel,White,Black,At least 1 accident or damage reported,Yes,6.2,8.0,Automatic
+3575,Jeep,Wrangler Unlimited Sport,2014,"132,600 mi.",Gasoline,White,–,At least 1 accident or damage reported,Yes,3.6,6.0,Automatic
+3576,Audi,A3 2.0T Premium,2016,"90,360 mi.",Gasoline,Black,Black,At least 1 accident or damage reported,Yes,2.0,4.0,Automatic
+3577,BMW,X5 xDrive35i,2014,"120,000 mi.",Gasoline,Black,Black,,,3.0,6.0,Other
+3578,Chevrolet,Camaro ZL1,2023,"2,950 mi.",Gasoline,Red,Gray,None reported,Yes,6.2,8.0,Automatic
+3579,Ford,F-250 XLT,2017,"244,000 mi.",Diesel,Red,Beige,None reported,Yes,6.7,8.0,Automatic
+3580,Mitsubishi,Outlander SEL,2018,"29,000 mi.",Gasoline,Red,Beige,None reported,Yes,2.4,4.0,Automatic
+3581,Audi,A7 3.0T Premium Plus,2017,"39,000 mi.",Gasoline,Black,Black,At least 1 accident or damage reported,Yes,3.0,6.0,Other
+3582,Mercedes-Benz,Sprinter 2500,2016,"399,000 mi.",Diesel,Silver,–,At least 1 accident or damage reported,Yes,3.0,6.0,Automatic
+3583,Tesla,Model X Base,2023,"8,200 mi.",,Black,Black,None reported,Yes,,,Automatic
+3584,GMC,Acadia SLE-1,2015,"115,282 mi.",Gasoline,Crimson Red Tintcoat,Ebony,At least 1 accident or damage reported,Yes,3.6,6.0,Automatic
+3585,Ford,Mustang GT Premium,2018,"26,840 mi.",Gasoline,White,Black,None reported,Yes,5.0,8.0,Manual
+3586,Ford,Thunderbird Deluxe,2004,"79,635 mi.",Gasoline,Gray,Black,None reported,Yes,3.9,8.0,Automatic
+3587,Dodge,Challenger SRT8,2008,"251,634 mi.",Gasoline,Silver,Black,None reported,Yes,6.1,8.0,Automatic
+3588,Ford,Transit Connect XLT,2012,"140,450 mi.",Gasoline,Red,Gray,At least 1 accident or damage reported,Yes,2.0,4.0,Automatic
+3589,Ford,F-150 XL,2018,"52,500 mi.",E85 Flex Fuel,Gray,Gray,None reported,Yes,5.0,8.0,Automatic
+3590,Lincoln,MKZ Select,2017,"52,284 mi.",Gasoline,Blue,Beige,At least 1 accident or damage reported,Yes,2.0,4.0,Automatic
+3591,BMW,M3 Competition xDrive,2023,"3,490 mi.",Gasoline,Gray,Black,None reported,Yes,3.0,6.0,Automatic
+3592,Mercedes-Benz,S-Class S 450 4MATIC,2018,"72,500 mi.",Gasoline,Black,Black,None reported,Yes,3.0,6.0,Automatic
+3593,BMW,X6 M50i,2022,"22,500 mi.",Gasoline,Black,–,At least 1 accident or damage reported,Yes,4.4,8.0,Other
+3594,Cadillac,Escalade Premium Luxury Platinum,2021,"72,843 mi.",Gasoline,Sandstone Metallic,Dark Auburn,None reported,Yes,6.2,8.0,Automatic
+3595,Porsche,Cayenne Turbo S,2014,"156,193 mi.",Gasoline,Silver,Black,None reported,Yes,4.8,8.0,Automatic
+3596,Jaguar,F-TYPE R,2017,"58,000 mi.",Gasoline,Black,Black,None reported,Yes,5.0,8.0,Automatic
+3597,BMW,650 i,2012,"39,960 mi.",Gasoline,White,Brown,None reported,Yes,4.4,8.0,Manual
+3598,Jaguar,XF Premium,2011,"35,134 mi.",Gasoline,Gray,Gray,At least 1 accident or damage reported,Yes,5.0,8.0,Automatic
+3599,Mercedes-Benz,GLC 300 GLC 300,2022,"16,983 mi.",Gasoline,Black,Black,None reported,,2.0,,Automatic
+3600,Toyota,Matrix XR,2004,"173,452 mi.",Gasoline,Silver,Black,At least 1 accident or damage reported,Yes,1.8,4.0,Automatic
+3601,INFINITI,QX30 Premium,2017,"37,900 mi.",Gasoline,Gray,Black,None reported,Yes,2.0,4.0,Automatic
+3602,Ford,F-150 XL,2014,"27,300 mi.",Gasoline,Gray,Gray,None reported,Yes,3.5,6.0,Automatic
+3603,BMW,X5 xDrive50i,2015,"72,000 mi.",Gasoline,Black,Brown,At least 1 accident or damage reported,Yes,4.4,8.0,Other
+3604,BMW,M5 Competition,2020,"35,400 mi.",Gasoline,Orange,Black,None reported,Yes,4.4,8.0,Automatic
+3605,Jaguar,XJ Vanden Plas,2008,"87,888 mi.",Gasoline,Black,Black,None reported,Yes,4.2,8.0,Automatic
+3606,Hyundai,Tucson SEL,2022,"13,666 mi.",Gasoline,Portofino Gray,Black,None reported,,2.5,4.0,Automatic
+3607,Hyundai,Genesis 3.8,2015,"61,300 mi.",Gasoline,Silver,Gray,,,3.8,6.0,Automatic
+3608,Mazda,CX-5 Grand Touring,2021,"24,781 mi.",Gasoline,Machine Gray Metallic,Black,,,2.5,4.0,Automatic
+3609,Dodge,Ram 1500 ST,2011,"188,000 mi.",Gasoline,Silver,Black,At least 1 accident or damage reported,Yes,3.7,6.0,Automatic
+3610,Ford,Mustang GT,2011,"133,504 mi.",Gasoline,Black,Black,None reported,Yes,5.0,8.0,Manual
+3611,Cadillac,CTS Base,2010,"81,696 mi.",Gasoline,Silver,Beige,At least 1 accident or damage reported,Yes,3.0,6.0,Automatic
+3612,BMW,X5 xDrive35i,2014,"143,250 mi.",Gasoline,Black,White,None reported,Yes,3.0,6.0,Automatic
+3613,RAM,2500 Laramie,2019,"65,000 mi.",Diesel,Black,Black,None reported,Yes,6.7,6.0,Automatic
+3614,Honda,Ridgeline Black Edition,2017,"91,600 mi.",Gasoline,Black,Black,None reported,Yes,3.5,6.0,Automatic
+3615,Kia,K5 GT-Line,2022,"10,971 mi.",Gasoline,Passion Red,Black,None reported,,1.6,4.0,Automatic
+3616,Chevrolet,Silverado 2500 LT,2015,"122,770 mi.",E85 Flex Fuel,Brown,Black,None reported,Yes,6.0,8.0,Automatic
+3617,Porsche,Macan S,2020,"22,354 mi.",Gasoline,Black,Black,None reported,,3.0,6.0,Automatic
+3618,Volkswagen,Golf Alltrack TSI SE,2018,"63,277 mi.",Gasoline,White,Black,None reported,Yes,1.8,4.0,Automatic
+3619,BMW,ALPINA B7 Base,2013,"36,750 mi.",Gasoline,Black,Black,None reported,Yes,4.4,8.0,Automatic
+3620,Audi,Q8 3.0T Prestige,2019,"38,360 mi.",Gasoline,Orca Black Metallic,Black,None reported,,3.0,6.0,Automatic
+3621,GMC,Yukon Denali,2018,"76,000 mi.",Gasoline,Black,Black,None reported,Yes,6.2,8.0,Automatic
+3622,Tesla,Model 3 Performance,2018,"92,813 mi.",,Red,Black,None reported,Yes,,,Automatic
+3623,Dodge,Durango SRT 392,2021,"17,000 mi.",Gasoline,Blue,Black,None reported,Yes,6.4,8.0,Other
+3624,BMW,525 i,2005,"91,420 mi.",Gasoline,Black,Black,None reported,Yes,2.5,6.0,Automatic
+3625,McLaren,720S Performance,2020,"5,072 mi.",Gasoline,Black,Red,None reported,Yes,4.0,8.0,Automatic
+3626,Lexus,GX 460 Base,2015,"92,000 mi.",Gasoline,Black,Black,None reported,Yes,4.6,8.0,Automatic
+3627,Toyota,Tundra TRD Pro,2016,"51,400 mi.",E85 Flex Fuel,Black,Black,,,5.7,8.0,Automatic
+3628,Jeep,Grand Cherokee Limited,2005,"100,500 mi.",Gasoline,Black,Gray,None reported,Yes,5.7,8.0,Automatic
+3629,Mercedes-Benz,EQS 450 4MATIC,2023,"7,388 mi.",,Gray,Beige,None reported,Yes,,,Automatic
+3630,BMW,i8 Base,2019,"41,500 mi.",Plug-In Hybrid,White,Black,None reported,Yes,1.5,3.0,Other
+3631,GMC,Yukon SLT,2010,"194,500 mi.",E85 Flex Fuel,White,Beige,At least 1 accident or damage reported,Yes,5.3,8.0,Automatic
+3632,Land,Rover Range Rover Supercharged,2010,"130,000 mi.",Gasoline,White,Black,None reported,Yes,5.0,8.0,Automatic
+3633,Ford,Expedition Platinum,2021,"51,902 mi.",Gasoline,Red,Ceramic,None reported,Yes,3.5,6.0,Automatic
+3634,Volkswagen,Eurovan MV,2001,"111,887 mi.",Gasoline,Blue,Gray,None reported,Yes,2.8,6.0,Automatic
+3635,Lexus,GX 460 Base,2021,"40,906 mi.",Gasoline,Black,Black,None reported,,4.6,,Automatic
+3636,Audi,Q5 3.0 TDI Premium Plus,2014,"55,564 mi.",Diesel,Black,Black,At least 1 accident or damage reported,Yes,3.0,6.0,Automatic
+3637,Ford,F-150 XL,2021,"45,979 mi.",Gasoline,Agate Black Metallic,Black,None reported,Yes,3.5,6.0,Automatic
+3638,Hummer,H3 Base,2010,"107,481 mi.",Gasoline,White,Black,None reported,Yes,3.7,5.0,Automatic
+3639,BMW,430 Gran Coupe i xDrive,2018,"29,025 mi.",Gasoline,Carbon Black Metallic,Black,None reported,,2.0,,Automatic
+3640,BMW,X7 xDrive40i,2023,"2,437 mi.",Hybrid,Gray,Black,None reported,Yes,3.0,6.0,Other
+3641,Chrysler,300 Touring,2021,"21,478 mi.",Gasoline,Silver Mist,Black,None reported,,3.6,,Automatic
+3642,Mercedes-Benz,S-Class S500,2005,"175,722 mi.",Gasoline,White,Beige,None reported,Yes,5.0,8.0,Automatic
+3643,Honda,Prelude Type SH,2001,"125,000 mi.",Gasoline,Red,Black,None reported,Yes,2.2,4.0,Manual
+3644,BMW,X6 M Base,2016,"52,375 mi.",Gasoline,White,Brown,At least 1 accident or damage reported,Yes,4.4,8.0,Automatic
+3645,BMW,M5 Base,2015,"27,000 mi.",Gasoline,Black,Black,None reported,Yes,4.4,8.0,Automatic
+3646,Chevrolet,Colorado ZR2,2021,"24,915 mi.",Gasoline,Satin Steel Metallic,Jet Black,None reported,,3.6,6.0,Automatic
+3647,Dodge,Durango SRT,2020,"36,000 mi.",Gasoline,Gray,Red,None reported,Yes,6.4,8.0,Automatic
+3648,Jaguar,XE 35t Premium,2017,"55,000 mi.",Gasoline,Gray,Black,None reported,Yes,3.0,6.0,Automatic
+3649,Ford,Bronco Heritage Edition Advanced,2023,"1,500 mi.",Gasoline,Red,–,None reported,Yes,2.3,4.0,Manual
+3650,Land,Rover Range Rover Sport HSE Dynamic,2019,"20,500 mi.",Gasoline,White,White,None reported,Yes,3.0,6.0,Automatic
+3651,Lexus,IS 250 Base,2011,"107,818 mi.",Gasoline,Gray,Beige,At least 1 accident or damage reported,Yes,2.5,6.0,Automatic
+3652,Land,Rover Range Rover 3.0L V6 Supercharged HSE,2019,"41,200 mi.",Gasoline,Black,Black,None reported,Yes,3.0,6.0,Other
+3653,Ford,Mustang V6,2016,"87,248 mi.",Gasoline,Black,Black,None reported,Yes,3.7,6.0,Automatic
+3654,Mercedes-Benz,SL-Class SL550 Roadster,2008,"150,000 mi.",Gasoline,Black,Beige,None reported,Yes,5.5,8.0,Automatic
+3655,Chevrolet,Corvette Stingray w/2LT,2020,"12,500 mi.",Gasoline,Yellow,Black,None reported,Yes,6.2,8.0,Other
+3656,Toyota,Highlander Hybrid XLE,2019,"69,350 mi.",Hybrid,Black,Gray,None reported,Yes,3.5,6.0,Automatic
+3657,BMW,X2 xDrive28i,2018,"66,690 mi.",Gasoline,Gray,Black,At least 1 accident or damage reported,Yes,2.0,4.0,Other
+3658,Mercedes-Benz,GL-Class GL 450 4MATIC,2013,"63,300 mi.",Gasoline,Black,Black,None reported,Yes,4.6,8.0,Automatic
+3659,Bentley,Bentayga Speed,2020,"15,109 mi.",Gasoline,Ice,Beluga Hide,,,6.0,12.0,Automatic
+3660,Acura,NSX Base,2018,"6,523 mi.",Hybrid,White,Ebony,None reported,,3.5,6.0,Automatic
+3661,Toyota,Tacoma PreRunner,2008,"160,000 mi.",Gasoline,White,–,At least 1 accident or damage reported,Yes,4.0,6.0,Automatic
+3662,Lexus,LS 500 F Sport,2018,"15,055 mi.",Gasoline,White,Black,None reported,Yes,3.5,6.0,Automatic
+3663,Nissan,Armada SL,2022,"14,735 mi.",Gasoline,White,Black,None reported,,5.6,,Automatic
+3664,Cadillac,Escalade Platinum,2019,"92,000 mi.",Gasoline,Black,Black,None reported,Yes,6.2,8.0,Automatic
+3665,Volvo,XC60 T6 Inscription,2019,"20,623 mi.",Gasoline,Silver,Black,None reported,Yes,2.0,4.0,Automatic
+3666,Ford,Mustang GT Premium,2011,"101,000 mi.",Gasoline,Red,Black,None reported,Yes,5.0,8.0,Manual
+3667,Toyota,FJ Cruiser Base,2014,"92,000 mi.",Gasoline,Beige,Black,None reported,Yes,4.0,6.0,Automatic
+3668,Chevrolet,Corvette Base,2003,"145,000 mi.",Gasoline,Blue,Black,None reported,Yes,5.7,8.0,Automatic
+3669,Genesis,G70 3.3T Advanced,2019,"48,000 mi.",Gasoline,Black,Black,None reported,Yes,3.3,6.0,Automatic
+3670,Ford,F-150 XLT,2018,"67,650 mi.",Gasoline,Blue,Gray,None reported,Yes,3.5,6.0,Automatic
+3671,Mercedes-Benz,AMG G 63 4MATIC,2022,"2,000 mi.",Gasoline,Black,Black,,,4.0,8.0,Other
+3672,Porsche,Cayenne Turbo,2020,"39,611 mi.",Gasoline,Quartzite Grey Metallic,Black,None reported,,4.0,8.0,Automatic
+3673,Chevrolet,Silverado 1500 RST,2023,"5,006 mi.",Gasoline,Dark Ash Metallic,Black,None reported,,5.3,8.0,Automatic
+3674,Ford,F-150 XL,2021,"88,883 mi.",Gasoline,Agate Black Metallic,Black,None reported,Yes,2.7,6.0,Automatic
+3675,Volkswagen,Jetta 1.4T R-Line,2019,"96,000 mi.",Gasoline,Orange,White,At least 1 accident or damage reported,Yes,1.4,4.0,Automatic
+3676,Acura,TSX Technology,2011,"187,883 mi.",Gasoline,Red,Beige,None reported,Yes,2.4,4.0,Automatic
+3677,Mazda,CX-5 Grand Touring,2021,"62,377 mi.",Gasoline,Jet Black Mica,Black,None reported,Yes,2.5,4.0,Automatic
+3678,Cadillac,Escalade Premium,2015,"71,000 mi.",Gasoline,Black,Brown,At least 1 accident or damage reported,Yes,6.2,8.0,Automatic
+3679,Audi,RS 5 2.9T,2022,"9,628 mi.",Gasoline,White,Black,None reported,Yes,2.9,6.0,Automatic
+3680,Audi,Q5 S line Premium,2022,"10,120 mi.",Hybrid,Navarre Blue,Gray,None reported,,2.0,,Automatic
+3681,Ford,F-150 Lariat,2021,"36,821 mi.",Gasoline,Agate Black Metallic,Black,,,3.5,6.0,Automatic
+3682,Lexus,RX 350 F Sport,2018,"26,100 mi.",Gasoline,Gray,Red,None reported,Yes,3.5,6.0,Automatic
+3683,Hyundai,Kona N Base,2023,654 mi.,Gasoline,Ultra Black,Black,None reported,Yes,2.0,4.0,Automatic
+3684,Tesla,Model X 75D,2017,"70,579 mi.",,Black,White,None reported,Yes,,,Automatic
+3685,Audi,Q5 S line Premium,2022,"18,099 mi.",Hybrid,Daytona Gray,Gray,None reported,,2.0,,Automatic
+3686,Kia,Telluride SX,2021,"38,612 mi.",Gasoline,Ebony Black,Black,None reported,,3.8,6.0,Automatic
+3687,Lexus,GX 460 Luxury,2020,"37,366 mi.",Gasoline,White,–,,,4.6,8.0,Automatic
+3688,Chevrolet,Camaro Z28,2002,"35,515 mi.",Gasoline,Silver,Black,At least 1 accident or damage reported,Yes,5.7,8.0,Manual
+3689,Mercedes-Benz,AMG GLE AMG GLE 63 S-Model 4MATIC,2016,"35,943 mi.",Gasoline,Black,White,None reported,Yes,5.5,8.0,Automatic
+3690,RAM,1500 Laramie,2022,"3,521 mi.",Gasoline,Diamond Black,Black,None reported,Yes,5.7,8.0,Automatic
+3691,Nissan,Murano SL,2005,"125,500 mi.",Gasoline,Black,Beige,None reported,Yes,3.5,6.0,Other
+3692,GMC,Yukon SLE,2015,"112,552 mi.",Gasoline,Onyx Black,Jet Black,At least 1 accident or damage reported,Yes,5.3,8.0,Automatic
+3693,Land,Rover Range Rover Sport Supercharged,2015,"64,300 mi.",E85 Flex Fuel,Blue,Black,None reported,Yes,5.0,8.0,Other
+3694,Porsche,718 Boxster Base,2017,"26,000 mi.",Gasoline,Gray,Black,None reported,Yes,2.0,4.0,Automatic
+3695,Porsche,Cayenne GTS,2016,"64,600 mi.",Gasoline,White,Red,None reported,Yes,3.6,6.0,Automatic
+3696,Hyundai,Elantra GLS,2010,"107,000 mi.",Gasoline,Blue,Blue,At least 1 accident or damage reported,Yes,2.0,4.0,Automatic
+3697,BMW,M5 Base,2023,816 mi.,Gasoline,Alpine White,Black,None reported,,4.4,8.0,Automatic
+3698,Tesla,Model S Long Range,2022,"28,000 mi.",,Gray,White,None reported,Yes,,,Automatic
+3699,Porsche,Macan S,2020,"19,701 mi.",Gasoline,–,–,None reported,,3.0,,Automatic
+3700,Tesla,Model 3 Performance,2021,"33,000 mi.",,Red,White,None reported,Yes,,,Automatic
+3701,Genesis,GV80 2.5T,2023,"8,100 mi.",Gasoline,Silver,Beige,None reported,Yes,2.5,4.0,Other
+3702,Land,Rover Range Rover SWB,2020,"29,000 mi.",Hybrid,Black,Black,None reported,Yes,3.0,6.0,Automatic
+3703,Porsche,Cayenne Base,2014,"117,697 mi.",Gasoline,Black,Black,At least 1 accident or damage reported,Yes,3.6,6.0,Automatic
+3704,Ford,F-150 XLT SuperCab,2004,"187,000 mi.",Gasoline,Beige,Beige,None reported,Yes,5.4,8.0,Automatic
+3705,Lexus,LX 570 Three-Row,2019,"19,050 mi.",Gasoline,Black,Beige,None reported,Yes,5.7,8.0,Automatic
+3706,Alfa,Romeo Giulia Ti,2020,"23,339 mi.",Gasoline,Rosso,Black,,,2.0,4.0,Automatic
+3707,BMW,840 Gran Coupe i xDrive,2020,"25,793 mi.",Gasoline,Black Sapphire Metallic,Black,None reported,,3.0,6.0,Automatic
+3708,BMW,M6 Gran Coupe Base,2017,"27,965 mi.",Gasoline,Green,Black,None reported,Yes,4.4,8.0,Automatic
+3709,BMW,i8 Base,2015,846 mi.,Plug-In Hybrid,White,White,None reported,Yes,1.5,3.0,Automatic
+3710,Volkswagen,Golf GTI 2.0T Autobahn 4-Door,2015,"85,385 mi.",Gasoline,Gray,Black,None reported,Yes,2.0,4.0,Manual
+3711,Ford,Transit Connect XL,2020,"119,000 mi.",Gasoline,White,Black,None reported,Yes,2.5,4.0,Automatic
+3712,Rivian,R1S Adventure Package,2023,"2,500 mi.",,Green,White,None reported,Yes,,,Automatic
+3713,BMW,i3 Base,2015,"26,000 mi.",,White,Beige,None reported,Yes,65.0,,Automatic
+3714,Lincoln,MKZ Base,2015,"117,292 mi.",Gasoline,Beige,Beige,None reported,Yes,2.0,4.0,Automatic
+3715,Tesla,Model S Plaid,2021,"20,100 mi.",,Red,Black,None reported,Yes,,,Automatic
+3716,Mercedes-Benz,C-Class C 300 4MATIC Sport,2013,"98,000 mi.",Gasoline,White,Beige,At least 1 accident or damage reported,Yes,3.5,6.0,Automatic
+3717,Porsche,911 Carrera 4,2014,"22,700 mi.",Gasoline,Silver,Black,At least 1 accident or damage reported,Yes,3.4,6.0,Manual
+3718,GMC,Yukon XL SLT,2016,"93,000 mi.",Gasoline,Black,Black,At least 1 accident or damage reported,Yes,5.3,8.0,Automatic
+3719,Nissan,Armada SL,2019,"59,980 mi.",Gasoline,Silver,Black,None reported,Yes,5.6,8.0,Automatic
+3720,Mercedes-Benz,AMG GT 63 S 4-Door,2020,"21,214 mi.",Gasoline,Obsidian Black Metallic,Black,None reported,,4.0,8.0,Automatic
+3721,Tesla,Model Y Long Range,2021,"49,252 mi.",,Deep Blue Metallic,Black,None reported,,,,Automatic
+3722,Dodge,Charger R/T 392,2017,"73,350 mi.",Gasoline,Gray,Red,None reported,Yes,6.4,8.0,Automatic
+3723,Toyota,Tundra Platinum,2018,"66,000 mi.",Gasoline,Gray,Black,None reported,Yes,5.7,8.0,Automatic
+3724,Volvo,XC70 3.2,2008,"46,700 mi.",Gasoline,White,Beige,,,3.2,6.0,Automatic
+3725,Kia,Sorento EX V6,2019,"66,075 mi.",Gasoline,Titanium Silver,Satin Black,None reported,,3.3,6.0,Automatic
+3726,Volvo,S60 Recharge Plug-In Hybrid T8 Inscription,2021,"24,158 mi.",Plug-In Hybrid,Gray,Black,None reported,Yes,2.0,4.0,Automatic
+3727,Toyota,Highlander Limited,2020,"53,550 mi.",Gasoline,Blue,Gray,None reported,Yes,3.5,6.0,Automatic
+3728,Kia,Sorento SXL,2019,"43,850 mi.",Gasoline,Black,Black,At least 1 accident or damage reported,Yes,3.3,6.0,Automatic
+3729,Jaguar,F-TYPE S British Design Edition,2017,"34,150 mi.",Gasoline,Black,Black,None reported,Yes,3.0,6.0,Automatic
+3730,Ford,F-150 Lariat,2019,"81,000 mi.",Gasoline,Gray,Black,None reported,Yes,3.5,6.0,Automatic
+3731,Ford,Transit-350 Base,2019,"94,650 mi.",Gasoline,White,–,None reported,Yes,3.7,6.0,Automatic
+3732,Ford,Focus SE,2017,"91,000 mi.",E85 Flex Fuel,Gray,Black,None reported,Yes,2.0,4.0,Automatic
+3733,Mercedes-Benz,AMG C 43 AMG C 43 4MATIC,2019,"32,500 mi.",Gasoline,Black,Black,None reported,Yes,3.0,6.0,Automatic
+3734,Hyundai,Palisade SEL,2021,"34,742 mi.",Gasoline,Moonlight Cloud,Gray,At least 1 accident or damage reported,Yes,3.8,6.0,Automatic
+3735,Acura,ILX Premium Package,2019,"37,900 mi.",Gasoline,White,Black,None reported,Yes,2.4,4.0,Automatic
+3736,Toyota,Sienna LE,2015,"76,000 mi.",Gasoline,Red,Gray,None reported,Yes,3.5,6.0,Automatic
+3737,Mazda,Protege DX,1993,"94,200 mi.",–,Gray,–,At least 1 accident or damage reported,Yes,,,Automatic
+3738,Ford,F-150 XLT,2022,"33,818 mi.",Gasoline,Agate Black Metallic,Black,None reported,Yes,5.0,8.0,Automatic
+3739,Lexus,RX 450h F Sport Handling,2022,"1,600 mi.",Hybrid,White,Black,None reported,Yes,3.5,6.0,Automatic
+3740,Lexus,RC F Base,2015,"25,756 mi.",Gasoline,Black,Black,None reported,Yes,5.0,8.0,Automatic
+3741,INFINITI,QX60 AUTOGRAPH,2022,"6,000 mi.",Gasoline,Gold,Brown,None reported,Yes,3.5,6.0,Automatic
+3742,Lexus,GX 460 Luxury,2021,"17,710 mi.",Gasoline,White,Red,None reported,Yes,4.6,8.0,Automatic
+3743,Honda,CR-V EX,2004,"156,350 mi.",Gasoline,Brown,Beige,At least 1 accident or damage reported,Yes,2.4,4.0,Automatic
+3744,Porsche,911 Turbo,2007,"73,500 mi.",Gasoline,Black,Black,None reported,Yes,3.6,6.0,Automatic
+3745,Cadillac,CTS Luxury,2012,"62,500 mi.",Gasoline,Red,Beige,At least 1 accident or damage reported,Yes,3.0,6.0,Automatic
+3746,Jeep,Compass Sport,2010,"179,700 mi.",Gasoline,Black,Gray,At least 1 accident or damage reported,Yes,2.4,4.0,Automatic
+3747,Mazda,CX-5 Touring,2016,"116,500 mi.",Gasoline,Blue Reflex Mica,Black,None reported,Yes,2.5,4.0,Automatic
+3748,Toyota,Tacoma SR,2020,"27,363 mi.",Gasoline,Gray,Gray,None reported,Yes,3.5,6.0,Automatic
+3749,BMW,750 i,2015,"70,700 mi.",Gasoline,Blue,Black,At least 1 accident or damage reported,Yes,4.4,8.0,Automatic
+3750,Jeep,Wagoneer Series III,2022,"17,381 mi.",Gasoline,Velvet Red Pearlcoat,Global Black,None reported,Yes,5.7,8.0,Automatic
+3751,Maserati,Grecale Modena,2023,"3,721 mi.",Gasoline,White,Red,None reported,Yes,2.0,4.0,Automatic
+3752,Dodge,Charger GT,2018,"62,197 mi.",Gasoline,White Knuckle Clearcoat,Black,None reported,Yes,3.6,6.0,Automatic
+3753,Chevrolet,Camaro 2LT,2011,"126,700 mi.",Gasoline,White,Beige,At least 1 accident or damage reported,Yes,3.6,6.0,Other
+3754,Chevrolet,Silverado 1500 LTZ,2019,"56,654 mi.",Gasoline,Cajun Red Tintcoat,Jet Black,None reported,Yes,6.2,8.0,Automatic
+3755,Ford,F-350 XL,2017,"156,453 mi.",Diesel,White,Beige,None reported,Yes,6.7,8.0,Automatic
+3756,Dodge,Challenger R/T Scat Pack,2019,"75,800 mi.",Gasoline,Gray,Black,None reported,,6.4,,Automatic
+3757,Ford,Expedition Max King Ranch,2020,"52,000 mi.",Gasoline,Gray,Brown,At least 1 accident or damage reported,Yes,3.5,6.0,Automatic
+3758,Toyota,Highlander Hybrid Limited Platinum,2017,"34,049 mi.",Hybrid,Shoreline Blue Pearl,Ash,None reported,,3.5,6.0,Automatic
+3759,Mercedes-Benz,S-Class S 63 AMG,2013,"77,648 mi.",Gasoline,Silver,Black,None reported,Yes,5.5,8.0,Automatic
+3760,Nissan,Murano SL,2021,"43,875 mi.",Gasoline,Magnetic Black,Graphite,At least 1 accident or damage reported,,3.5,6.0,Automatic
+3761,Porsche,911 Turbo,2022,"13,800 mi.",Gasoline,Gray,Red,None reported,Yes,3.8,6.0,Automatic
+3762,Mercedes-Benz,AMG GLC 63 Base 4MATIC,2018,"71,962 mi.",Gasoline,White,Black,None reported,Yes,4.0,8.0,Automatic
+3763,Mercedes-Benz,CLA-Class CLA 250,2014,"83,315 mi.",Gasoline,White,White,None reported,Yes,2.0,4.0,Automatic
+3764,Mercedes-Benz,E-Class E 400 4MATIC,2018,"45,203 mi.",Gasoline,White,Saddle Brown,None reported,Yes,3.0,6.0,Automatic
+3765,Lexus,SC 430 Base,2002,"109,762 mi.",Gasoline,Blue,Brown,None reported,Yes,4.3,8.0,Automatic
+3766,MINI,Countryman Cooper S ALL4,2014,"79,000 mi.",Gasoline,White,Black,None reported,Yes,1.6,4.0,Other
+3767,Mercedes-Benz,GLS 450 Base 4MATIC,2019,"34,068 mi.",Gasoline,White,Beige,None reported,Yes,3.0,6.0,Automatic
+3768,Volkswagen,Golf GTI 2.0T SE 4-Door,2018,"63,450 mi.",Gasoline,White,Black,None reported,Yes,2.0,4.0,Manual
+3769,Cadillac,Escalade Premium Luxury,2022,"19,250 mi.",Gasoline,Black,Black,None reported,Yes,6.2,8.0,Automatic
+3770,BMW,X7 xDrive40i,2020,"45,241 mi.",Gasoline,Blue,Brown,None reported,Yes,3.0,6.0,Automatic
+3771,Toyota,Land Cruiser Base,2017,"65,000 mi.",Gasoline,Black,Brown,At least 1 accident or damage reported,Yes,5.7,8.0,Automatic
+3772,Ford,Thunderbird Deluxe,2002,"40,110 mi.",Gasoline,Yellow,Black,None reported,Yes,3.9,8.0,Automatic
+3773,Land,Rover Range Rover 5.0L V8 Supercharged,2019,"31,866 mi.",Gasoline,–,–,None reported,,5.0,,Automatic
+3774,Subaru,Impreza WRX Premium,2014,"55,000 mi.",Gasoline,White,Black,None reported,Yes,2.5,4.0,Manual
+3775,BMW,530e Base,2022,"22,700 mi.",Plug-In Hybrid,White,Black,None reported,Yes,2.0,4.0,Automatic
+3776,Chevrolet,Corvette Stingray w/3LT,2023,"1,100 mi.",Gasoline,Gray,Beige,None reported,Yes,6.2,8.0,Automatic
+3777,Ford,F-250 Base,1997,"92,800 mi.",Gasoline,White,Gray,None reported,Yes,5.8,8.0,Automatic
+3778,Porsche,911 GT3,2022,"1,750 mi.",Gasoline,White,Black,None reported,Yes,4.0,6.0,Automatic
+3779,Jaguar,F-PACE S,2020,"35,580 mi.",Gasoline,Eiger Grey Metallic,Ebony/Light Oyster Stitch,None reported,,3.0,,Automatic
+3780,RAM,2500 SLT,2018,"67,865 mi.",Gasoline,White,Gray,None reported,Yes,6.4,8.0,Automatic
+3781,Chevrolet,Camaro 1SS,2021,"15,000 mi.",Gasoline,Blue,Gray,None reported,Yes,6.2,8.0,Manual
+3782,Mercedes-Benz,E-Class E 350 4MATIC,2010,"27,000 mi.",Gasoline,Black,Black,None reported,Yes,3.5,6.0,Automatic
+3783,Ford,F-250 Lariat,2017,"128,000 mi.",Diesel,Gray,Black,None reported,Yes,6.7,8.0,Automatic
+3784,Maserati,Quattroporte S GranLusso,2017,"55,000 mi.",Gasoline,Blue,Black,None reported,Yes,3.0,6.0,Automatic
+3785,Audi,S5 3.0T Prestige,2013,"37,500 mi.",Gasoline,Black,Black,None reported,Yes,3.0,6.0,Automatic
+3786,Tesla,Model X Performance,2020,"25,535 mi.",,White,Beige,None reported,Yes,,,Automatic
+3787,Chevrolet,Corvette Base,2010,"23,133 mi.",Gasoline,White,Black,None reported,Yes,6.2,8.0,Manual
+3788,Ford,Mustang EcoBoost Premium,2018,"34,000 mi.",–,Blue,Gray,At least 1 accident or damage reported,Yes,,,Automatic
+3789,Toyota,Tundra Hybrid Limited,2023,"10,748 mi.",Hybrid,Midnight Black Metallic,Black,None reported,,3.4,6.0,Automatic
+3790,Ford,F-150 Platinum,2018,"92,000 mi.",Diesel,Black,Black,At least 1 accident or damage reported,Yes,3.0,6.0,Automatic
+3791,Mercedes-Benz,E-Class E 400,2018,"28,690 mi.",Gasoline,White,Beige,None reported,Yes,3.0,6.0,Automatic
+3792,Ford,Ranger XLT,2021,"89,000 mi.",Gasoline,Black,Black,None reported,Yes,2.3,4.0,Automatic
+3793,Ferrari,812 Superfast Base,2020,"1,575 mi.",Gasoline,Red,Black,None reported,Yes,6.5,12.0,Other
+3794,Audi,allroad 2.0T Prestige,2013,"104,457 mi.",Gasoline,Silver,Black,None reported,Yes,2.0,4.0,Automatic
+3795,Ford,Focus SE,2012,"108,045 mi.",Gasoline,Blue,Gray,None reported,Yes,2.0,4.0,Automatic
+3796,Ford,Fusion SE,2016,"110,450 mi.",Gasoline,Silver,Brown,None reported,Yes,2.0,4.0,Automatic
+3797,Maserati,Coupe Cambiocorsa,2006,"54,082 mi.",Gasoline,Blue,Beige,None reported,Yes,4.2,8.0,Other
+3798,Porsche,Cayenne Turbo,2009,"41,965 mi.",Gasoline,Black,Beige,At least 1 accident or damage reported,Yes,4.8,8.0,Other
+3799,Tesla,Model S 75D,2016,"102,260 mi.",,White,Black,None reported,Yes,,,Automatic
+3800,MINI,Cooper S Base,2010,"97,395 mi.",Gasoline,Yellow,Black,None reported,Yes,1.6,4.0,Manual
+3801,Chevrolet,Camaro 2SS,2023,"2,300 mi.",Gasoline,Red,Black,None reported,Yes,6.2,8.0,Manual
+3802,Toyota,Avalon Limited,2006,"89,987 mi.",Gasoline,Green,Beige,None reported,Yes,3.5,6.0,Automatic
+3803,Chevrolet,Silverado 3500 High Country,2015,"77,500 mi.",Diesel,Black,Brown,None reported,Yes,6.6,8.0,Automatic
+3804,Dodge,Charger R/T,2012,"122,000 mi.",Gasoline,White,Black,At least 1 accident or damage reported,Yes,5.7,8.0,Automatic
+3805,Land,Rover Range Rover Sport HSE,2011,"105,000 mi.",Gasoline,Black,Black,None reported,Yes,5.0,8.0,Automatic
+3806,INFINITI,QX60 Base,2014,"154,247 mi.",Gasoline,Black,Black,At least 1 accident or damage reported,Yes,3.5,6.0,Automatic
+3807,MINI,Cooper S Clubman Base,2009,"83,853 mi.",Gasoline,Gray,Black,At least 1 accident or damage reported,Yes,1.6,4.0,Manual
+3808,Ford,Taurus SHO,2011,"160,000 mi.",Gasoline,Black,Black,None reported,Yes,3.5,6.0,Automatic
+3809,Mercedes-Benz,CLS-Class CLS 550,2012,"79,000 mi.",Gasoline,Black,Black,None reported,Yes,4.6,8.0,Automatic
+3810,Mercedes-Benz,SLK-Class SLK280 Roadster,2007,"67,200 mi.",Gasoline,Silver,Black,None reported,Yes,3.0,6.0,Automatic
+3811,Hyundai,Elantra SE,2018,"32,697 mi.",Gasoline,Gray,Gray,At least 1 accident or damage reported,Yes,2.0,4.0,Automatic
+3812,BMW,M3 Base,2001,"60,000 mi.",Gasoline,Black,Gray,None reported,Yes,3.2,6.0,Manual
+3813,BMW,435 Gran Coupe i,2016,"76,009 mi.",Gasoline,White,Beige,None reported,Yes,3.0,6.0,Automatic
+3814,Chevrolet,Camaro 1SS,2022,"7,600 mi.",Gasoline,Gray,Black,At least 1 accident or damage reported,Yes,6.2,8.0,Manual
+3815,Acura,MDX 3.5L Technology Package,2014,"111,650 mi.",Gasoline,Green,Beige,At least 1 accident or damage reported,Yes,3.5,6.0,Automatic
+3816,BMW,330 i,2019,"42,200 mi.",Gasoline,White,Black,None reported,Yes,2.0,4.0,Automatic
+3817,Chevrolet,Traverse RS,2023,"6,000 mi.",Gasoline,Gray,Black,None reported,Yes,3.6,6.0,Automatic
+3818,Audi,A4 2.0T Premium,2015,"91,403 mi.",E85 Flex Fuel,Silver,Gray,None reported,,2.0,4.0,Automatic
+3819,Volvo,S60 T5 Premier Plus,2015,"39,000 mi.",Gasoline,Silver,Gray,At least 1 accident or damage reported,Yes,2.5,5.0,Other
+3820,Volkswagen,Tiguan 2.0T SEL Premium R-Line,2019,"74,000 mi.",Gasoline,White,Silver,None reported,Yes,2.0,4.0,Automatic
+3821,Mercedes-Benz,E-Class E 400,2016,"77,000 mi.",Gasoline,White,Beige,At least 1 accident or damage reported,Yes,3.0,6.0,Automatic
+3822,Acura,MDX Touring,2003,"165,000 mi.",Gasoline,Silver,Black,At least 1 accident or damage reported,Yes,3.5,6.0,Automatic
+3823,Dodge,Durango R/T,2022,"14,976 mi.",Gasoline,White Knuckle Clearcoat,Black,None reported,Yes,5.7,8.0,Automatic
+3824,Toyota,Tacoma TRD Pro,2018,"28,800 mi.",Gasoline,–,Black,None reported,,3.5,,Manual
+3825,Chevrolet,Suburban LT,2019,"72,000 mi.",Gasoline,Blue,Beige,At least 1 accident or damage reported,Yes,5.3,8.0,Automatic
+3826,Ford,Shelby GT500 Base,2014,"15,629 mi.",Gasoline,Black,Black,None reported,,5.8,8.0,Manual
+3827,INFINITI,Q40 Base,2015,"143,250 mi.",Gasoline,Silver,Black,None reported,Yes,3.7,6.0,Other
+3828,Ford,F-250 XLT,2017,"29,719 mi.",E85 Flex Fuel,White,Gray,None reported,Yes,6.2,8.0,Automatic
+3829,Kia,Telluride SX,2020,"55,400 mi.",Gasoline,Green,White,,,3.8,6.0,Automatic
+3830,Rivian,R1S Adventure Package,2023,"5,700 mi.",,Gray,White,None reported,Yes,,,Automatic
+3831,BMW,X4 M Competition,2020,"18,362 mi.",Gasoline,Black,Orange,None reported,Yes,3.0,6.0,Automatic
+3832,Ford,Explorer XLT,2020,"17,000 mi.",Gasoline,Blue,Black,At least 1 accident or damage reported,Yes,2.3,4.0,Automatic
+3833,Dodge,Challenger GT,2021,"40,000 mi.",Gasoline,Black,Black,None reported,Yes,3.6,6.0,Automatic
+3834,Lincoln,MKZ Base,2016,"68,200 mi.",Gasoline,Silver,Black,At least 1 accident or damage reported,Yes,3.7,6.0,Automatic
+3835,Acura,ZDX Base,2012,"106,335 mi.",Gasoline,White,Gray,None reported,Yes,3.7,6.0,Automatic
+3836,MINI,Hardtop Cooper,2019,"19,850 mi.",Gasoline,Black,Black,None reported,Yes,1.5,3.0,Automatic
+3837,Chevrolet,Corvette Base,2007,"28,514 mi.",Gasoline,Red,Gray,None reported,Yes,6.0,8.0,Other
+3838,Ford,Mustang GT,2006,"16,000 mi.",Gasoline,Silver,Black,None reported,Yes,4.6,8.0,Automatic
+3839,Mercedes-Benz,AMG G 63 Base,2017,"73,000 mi.",Gasoline,White,Black,At least 1 accident or damage reported,Yes,5.5,8.0,Automatic
+3840,Chevrolet,Express 1500 Cargo,2004,"152,000 mi.",Gasoline,White,Gray,At least 1 accident or damage reported,Yes,4.3,6.0,Automatic
+3841,Honda,S2000 CR,2008,"44,300 mi.",Gasoline,Yellow,Black,None reported,Yes,2.2,4.0,Manual
+3842,Porsche,Cayenne GTS Coupe AWD,2023,"10,000 mi.",Gasoline,Gray,Black,None reported,Yes,4.0,8.0,Automatic
+3843,Hyundai,Genesis Coupe 3.8 Track,2011,"75,000 mi.",Gasoline,Red,Black,At least 1 accident or damage reported,Yes,3.8,6.0,Other
+3844,Land,Rover Range Rover 5.0L V8 Supercharged,2019,"17,500 mi.",Gasoline,Black,Black,None reported,Yes,5.0,8.0,Automatic
+3845,INFINITI,Q50 Hybrid Premium,2015,"88,977 mi.",Hybrid,Gray,Black,At least 1 accident or damage reported,Yes,3.5,6.0,Automatic
+3846,Land,Rover Range Rover HSE,2012,"102,800 mi.",Gasoline,Gold,Brown,None reported,Yes,5.0,8.0,Automatic
+3847,BMW,750 i xDrive,2014,"85,095 mi.",Gasoline,Black,Brown,At least 1 accident or damage reported,Yes,4.4,8.0,Automatic
+3848,Jaguar,XK8 Base,2001,"150,000 mi.",Gasoline,Green,White,At least 1 accident or damage reported,Yes,4.0,8.0,Automatic
+3849,Chevrolet,Express 3500 LT,2016,"120,000 mi.",Diesel,White,Gray,None reported,Yes,6.6,8.0,Automatic
+3850,RAM,1500 Tradesman/Express,2017,"26,269 mi.",E85 Flex Fuel,Bright White Clearcoat,Black,At least 1 accident or damage reported,,3.6,6.0,Automatic
+3851,Jeep,Liberty Sport,2003,"103,000 mi.",Gasoline,Black,Gray,None reported,Yes,3.7,6.0,Automatic
+3852,Jeep,Wrangler Rubicon,2009,"130,000 mi.",Gasoline,Black,Gray,None reported,Yes,3.8,6.0,Manual
+3853,Toyota,Sequoia Platinum,2011,"173,456 mi.",E85 Flex Fuel,Black,Gray,At least 1 accident or damage reported,Yes,5.7,8.0,Automatic
+3854,Chrysler,200 C,2015,"44,000 mi.",E85 Flex Fuel,White,Black,At least 1 accident or damage reported,Yes,3.6,6.0,Automatic
+3855,BMW,X5 3.0i,2004,"140,000 mi.",Gasoline,Black,Beige,None reported,Yes,3.0,6.0,Other
+3856,Lexus,LX 570 Three-Row,2018,"39,300 mi.",Gasoline,Black,Black,None reported,Yes,5.7,8.0,Other
+3857,Mercedes-Benz,SL-Class SL600 Roadster,2007,"78,200 mi.",Gasoline,Black,Brown,At least 1 accident or damage reported,Yes,5.5,12.0,Automatic
+3858,Porsche,Panamera Base,2018,"42,500 mi.",Gasoline,Black,Beige,At least 1 accident or damage reported,Yes,3.0,6.0,Automatic
+3859,Ford,Fusion SE,2012,"160,000 mi.",E85 Flex Fuel,Gray,Black,None reported,Yes,3.0,6.0,Automatic
+3860,Chevrolet,Silverado 1500 W/T,2006,"111,228 mi.",Gasoline,Blue,Gray,At least 1 accident or damage reported,Yes,4.3,6.0,Automatic
+3861,Honda,Accord Hybrid Base,2021,"33,523 mi.",Hybrid,Lunar Silver Metallic,Gray,None reported,,2.0,4.0,Automatic
+3862,Lexus,IS 250 Base,2007,"189,887 mi.",Gasoline,White,–,At least 1 accident or damage reported,Yes,2.5,6.0,Automatic
+3863,Dodge,Ram 1500 ST,2011,"134,000 mi.",Gasoline,Black,Gray,At least 1 accident or damage reported,Yes,5.7,8.0,Automatic
+3864,Porsche,911 Turbo Cabriolet,2008,"51,000 mi.",Gasoline,Silver,Black,At least 1 accident or damage reported,Yes,3.6,6.0,Other
+3865,Subaru,Legacy 2.5 i Premium,2010,"178,000 mi.",Gasoline,Blue,Black,None reported,Yes,2.5,4.0,Automatic
+3866,Volvo,XC60 T5 R-Design,2019,"43,500 mi.",Gasoline,Gray,Black,None reported,Yes,2.0,4.0,Other
+3867,Lexus,LX 600 F SPORT,2023,"1,185 mi.",Gasoline,Black,Black,None reported,Yes,3.4,6.0,Automatic
+3868,Chevrolet,Silverado 2500 WT,2021,"63,866 mi.",Gasoline,Silver Ice Metallic,Jet Black,None reported,Yes,6.6,8.0,Automatic
+3869,Ford,F-150 Lightning XLT,2023,208 mi.,,Gray,Gold,None reported,Yes,,,Automatic
+3870,RAM,ProMaster 2500 High Roof,2019,"31,681 mi.",Gasoline,White,Black,At least 1 accident or damage reported,Yes,3.6,6.0,Automatic
+3871,Tesla,Model X 75D,2016,"52,000 mi.",,Black,Beige,None reported,Yes,,,Automatic
+3872,BMW,X4 xDrive30i,2022,"34,800 mi.",Gasoline,Blue,Brown,None reported,Yes,2.0,4.0,Automatic
+3873,Ford,F-250 XLT,2019,"38,600 mi.",Diesel,Blue,–,None reported,Yes,6.7,8.0,Automatic
+3874,Cadillac,Escalade Platinum,2020,"48,613 mi.",Gasoline,Black,Black,At least 1 accident or damage reported,Yes,6.2,8.0,Automatic
+3875,Porsche,911 Carrera S,2010,"13,850 mi.",Gasoline,Black,Black,None reported,Yes,3.8,6.0,Manual
+3876,INFINITI,QX80 Base,2018,"100,564 mi.",Gasoline,Black,Graphite,None reported,,5.6,8.0,Automatic
+3877,Toyota,FJ Cruiser Base,2007,"102,000 mi.",Gasoline,Blue,Black,None reported,Yes,4.0,6.0,Manual
+3878,Lexus,IS 350 Base,2014,"104,000 mi.",Gasoline,Black,Black,None reported,Yes,3.5,6.0,Automatic
+3879,Toyota,Highlander XLE,2023,"8,727 mi.",Gasoline,Ruby Flare Pearl,Black,None reported,,2.4,4.0,Automatic
+3880,Audi,S5 3.0 Premium Plus,2012,"61,450 mi.",Gasoline,White,Gray,None reported,Yes,3.0,6.0,Automatic
+3881,Alfa,Romeo Giulia Quadrifoglio,2021,"10,558 mi.",Gasoline,White,Black,None reported,Yes,2.9,6.0,Automatic
+3882,Buick,Verano Convenience,2013,"68,325 mi.",E85 Flex Fuel,Silver,Gray,None reported,Yes,2.4,4.0,Other
+3883,Ford,Fusion Energi Titanium,2015,"84,352 mi.",Plug-In Hybrid,Blue,Black,At least 1 accident or damage reported,Yes,2.0,4.0,Other
+3884,Toyota,4Runner SR5 Premium,2023,"1,400 mi.",Gasoline,White,Black,None reported,Yes,4.0,6.0,Automatic
+3885,BMW,M4 Base,2023,"15,000 mi.",Gasoline,BLUE,ORANGE,None reported,,3.0,,Automatic
+3886,BMW,ALPINA B7 Base,2015,"86,000 mi.",Gasoline,Black,White,At least 1 accident or damage reported,Yes,4.4,8.0,Automatic
+3887,Ford,F-150 SVT Raptor,2014,"89,988 mi.",Gasoline,Red,Red,At least 1 accident or damage reported,Yes,6.2,8.0,Automatic
+3888,Kia,Sorento EX,2016,"64,290 mi.",Gasoline,Snow White Pearl,Satin Black,None reported,,2.0,4.0,Automatic
+3889,Mercedes-Benz,C-Class C280 4MATIC,2007,"49,626 mi.",Gasoline,White,–,None reported,Yes,3.0,6.0,Automatic
+3890,INFINITI,M56 Base,2011,"137,000 mi.",Gasoline,Gray,Brown,At least 1 accident or damage reported,Yes,5.6,8.0,Other
+3891,Ford,Focus ST Base,2013,"20,800 mi.",Gasoline,Yellow,Gray,None reported,Yes,2.0,4.0,Manual
+3892,Chevrolet,Suburban Premier,2021,"51,890 mi.",Gasoline,Shadow Gray Metallic,Jet Black,None reported,Yes,5.3,8.0,Automatic
+3893,BMW,X5 sDrive35i,2017,"39,250 mi.",Gasoline,Black,Beige,None reported,Yes,3.0,6.0,Automatic
+3894,Tesla,Model 3 Long Range,2018,"43,000 mi.",,Red,Black,At least 1 accident or damage reported,Yes,,,Automatic
+3895,Ford,Edge Sport,2016,"92,000 mi.",Gasoline,White,Black,None reported,Yes,2.7,6.0,Automatic
+3896,Audi,R8 5.2 V10 performance,2020,"12,245 mi.",Gasoline,Daytona Gray Pearl Effect w/ Black Roof,Black / Express Red,None reported,,5.2,10.0,Automatic
+3897,Dodge,Dart SE,2015,"66,000 mi.",Gasoline,Black,Black,None reported,Yes,2.0,4.0,Manual
+3898,Hyundai,Accent GLS,2014,"127,941 mi.",Gasoline,Silver,Gray,None reported,Yes,1.6,4.0,Automatic
+3899,Lexus,GX 460 Base,2010,"97,097 mi.",Gasoline,Red,Beige,At least 1 accident or damage reported,Yes,4.6,8.0,Automatic
+3900,Lexus,LC 500 Base,2018,"37,000 mi.",Gasoline,Black,Red,None reported,Yes,5.0,8.0,Automatic
+3901,Audi,A3 2.0T Tech Premium,2018,"39,600 mi.",Gasoline,White,Black,None reported,Yes,2.0,4.0,Other
+3902,Audi,Q3 S line Premium Plus,2022,"17,377 mi.",Gasoline,Glacier White,Pearl Beige,None reported,,2.0,,Automatic
+3903,Mercedes-Benz,AMG GT Base,2018,"28,182 mi.",Gasoline,White,Brown,At least 1 accident or damage reported,Yes,4.0,8.0,Automatic
+3904,Dodge,Challenger R/T Scat Pack,2019,"43,000 mi.",–,Green,Black,None reported,Yes,,,Manual
+3905,Lexus,GX 460 Premium,2017,"82,000 mi.",Gasoline,Gray,Brown,None reported,Yes,4.6,8.0,Automatic
+3906,Ford,Fusion SE,2018,"75,600 mi.",Gasoline,Blue,Black,At least 1 accident or damage reported,Yes,1.5,4.0,Automatic
+3907,Kia,Sportage Nightfall,2022,"9,686 mi.",Gasoline,Hyper Red,Black,None reported,Yes,2.4,4.0,Automatic
+3908,MINI,Cooper Base,2010,"58,000 mi.",Gasoline,Gold,Black,None reported,Yes,1.6,4.0,Automatic
+3909,Kia,K5 GT-Line,2021,"100,312 mi.",Gasoline,Wolf Gray,Black,None reported,,1.6,4.0,Automatic
+3910,BMW,550 i xDrive,2012,"68,500 mi.",Gasoline,Black,Black,None reported,Yes,4.4,8.0,Other
+3911,BMW,330e iPerformance,2017,"52,500 mi.",Plug-In Hybrid,Blue,Black,At least 1 accident or damage reported,Yes,2.0,4.0,Other
+3912,Mercedes-Benz,E-Class E 350 4MATIC,2008,"91,900 mi.",Gasoline,Black,Black,None reported,Yes,3.5,6.0,Automatic
+3913,Toyota,RAV4 SE,2016,"108,130 mi.",Gasoline,Gray,Orange,None reported,Yes,2.5,4.0,Other
+3914,Kia,Sorento SX Prestige,2023,"11,100 mi.",Gasoline,White,Black,None reported,Yes,2.5,4.0,Other
+3915,Audi,RS 7 4.0T,2022,"4,100 mi.",Hybrid,Blue,Black,None reported,Yes,4.0,8.0,Automatic
+3916,Tesla,Model Y Long Range,2022,"9,411 mi.",,Silver,Black,None reported,,,,Automatic
+3917,Ford,Bronco Wildtrak Advanced,2022,"9,990 mi.",Gasoline,Silver,Black,None reported,Yes,2.7,6.0,Other
+3918,Toyota,Camry Hybrid LE,2022,"20,400 mi.",Hybrid,White,Gray,None reported,Yes,2.5,4.0,Other
+3919,Chevrolet,Camaro Z28,2002,"48,000 mi.",Gasoline,White,Black,None reported,Yes,5.7,8.0,Automatic
+3920,Ford,Explorer XLT,2013,"149,000 mi.",Gasoline,Brown,Beige,At least 1 accident or damage reported,Yes,3.5,6.0,Automatic
+3921,Porsche,911 Carrera GTS,2022,"1,837 mi.",Gasoline,Aventurine Green Metallic,Agave Green,None reported,,3.0,,Automatic
+3922,Land,Rover Range Rover P400 SE LWB 7 Seat,2023,"4,126 mi.",Hybrid,Black,Beige,,,3.0,6.0,Automatic
+3923,Audi,A6 3.0T Prestige,2014,"89,500 mi.",Gasoline,Gray,Black,None reported,Yes,3.0,6.0,Other
+3924,Mazda,MX-5 Miata Club,2021,"5,093 mi.",Gasoline,Gray,Black,None reported,Yes,2.0,4.0,Manual
+3925,Lexus,LX 570 Base,2016,"118,700 mi.",Gasoline,Black,Beige,None reported,Yes,5.7,8.0,Automatic
+3926,Audi,R8 Base,2008,"49,000 mi.",Gasoline,Black,Black,None reported,Yes,4.2,8.0,Manual
+3927,Acura,ILX Premium Package,2018,"32,260 mi.",Gasoline,Black,Black,None reported,Yes,2.4,4.0,Automatic
+3928,Jeep,Wrangler Unlimited Sport,2017,"84,786 mi.",Gasoline,Gray,Black,None reported,Yes,3.6,6.0,Automatic
+3929,Kia,Sorento LX,2021,"54,200 mi.",Gasoline,White,Black,None reported,Yes,2.5,4.0,Automatic
+3930,Mazda,Mazda6 iSport VE,2008,"106,000 mi.",Gasoline,Black,Beige,None reported,Yes,2.3,4.0,Automatic
+3931,Mercedes-Benz,CLA-Class CLA 250,2015,"76,753 mi.",Gasoline,Red,Black,At least 1 accident or damage reported,Yes,2.0,4.0,Automatic
+3932,Cadillac,CTS-V Base,2012,"45,000 mi.",Gasoline,Red,Black,None reported,Yes,6.2,8.0,Automatic
+3933,Jaguar,F-PACE 30t R-Sport,2019,"34,365 mi.",Gasoline,Yulong,Ebony,None reported,,2.0,,Automatic
+3934,Porsche,911 Turbo S,2021,"1,912 mi.",Gasoline,Silver,Black,None reported,Yes,3.8,6.0,Automatic
+3935,Ford,F-150 XLT,2021,"24,207 mi.",Gasoline,Black,–,None reported,Yes,2.7,6.0,Automatic
+3936,Porsche,Taycan Base,2021,"6,900 mi.",,White,Beige,None reported,Yes,,,Automatic
+3937,Ford,Excursion XLS,2004,"163,000 mi.",Diesel,Silver,Gray,At least 1 accident or damage reported,Yes,6.0,8.0,Automatic
+3938,Land,Rover Defender S,2023,"15,840 mi.",Gasoline,White,Black,None reported,Yes,2.0,4.0,Automatic
+3939,Cadillac,ATS 3.6L Luxury,2016,"25,000 mi.",Gasoline,Red,Beige,None reported,Yes,3.6,6.0,Automatic
+3940,Alfa,Romeo Giulia Base,2017,"48,000 mi.",Gasoline,Red,Black,None reported,Yes,2.0,4.0,Automatic
+3941,BMW,335 i xDrive,2009,"69,764 mi.",Gasoline,Black,Black,None reported,Yes,3.0,6.0,Manual
+3942,Jeep,Grand Cherokee WK Laredo X,2022,"11,164 mi.",Gasoline,Black,Black,None reported,Yes,3.6,6.0,Automatic
+3943,GMC,Yukon XL Denali,2018,"45,617 mi.",Gasoline,White,Gray,None reported,Yes,6.2,8.0,Automatic
+3944,Ford,Mustang GT Premium,2021,"3,000 mi.",Gasoline,Red,Black,None reported,Yes,5.0,8.0,Manual
+3945,BMW,X5 M Base,2017,"61,773 mi.",Gasoline,Gray,Black,None reported,Yes,4.4,8.0,Other
+3946,Buick,Enclave Premium,2016,"134,655 mi.",Gasoline,Ebony Twilight Metallic,Ebony,None reported,Yes,3.6,6.0,Automatic
+3947,Dodge,Charger SRT Hellcat Widebody,2023,"5,000 mi.",Gasoline,Gray,Black,None reported,Yes,6.2,8.0,Other
+3948,BMW,ALPINA B7 ALPINA B7 xDrive,2020,"65,852 mi.",Gasoline,Black,Mocha,None reported,,4.4,,Automatic
+3949,Nissan,Altima 2.5 S,2020,"30,900 mi.",Gasoline,Silver,Gray,None reported,Yes,2.5,4.0,Automatic
+3950,Chevrolet,Silverado 1500 LT Extended Cab,2002,"118,500 mi.",Gasoline,Silver,Black,At least 1 accident or damage reported,Yes,5.3,8.0,Automatic
+3951,Acura,RSX Base,2005,"186,040 mi.",Gasoline,Gray,Beige,At least 1 accident or damage reported,Yes,2.0,4.0,Automatic
+3952,Mitsubishi,Mirage ES,2017,"35,698 mi.",Gasoline,Blue,Black,None reported,Yes,1.2,3.0,Automatic
+3953,Lexus,RX 350 Base,2021,"5,040 mi.",Gasoline,Beige,Beige,At least 1 accident or damage reported,Yes,3.5,6.0,Automatic
+3954,Chevrolet,Suburban Premier,2017,"166,549 mi.",Gasoline,White,Beige,At least 1 accident or damage reported,Yes,5.3,8.0,Automatic
+3955,Porsche,911 Carrera Cabriolet,2006,"52,744 mi.",Gasoline,Gray,Black,At least 1 accident or damage reported,Yes,3.6,6.0,Other
+3956,Lexus,CT 200h Premium,2012,"109,000 mi.",Hybrid,White,Black,At least 1 accident or damage reported,Yes,1.8,4.0,Automatic
+3957,Mercedes-Benz,SL-Class SL 550,2015,"11,249 mi.",Gasoline,White,Beige,None reported,Yes,4.7,8.0,Automatic
+3958,Chevrolet,Corvette Stingray w/2LT,2023,"2,058 mi.",Gasoline,Gray,Black,None reported,Yes,6.2,8.0,Automatic
+3959,Honda,Pilot EX-L,2016,"135,350 mi.",Gasoline,White,Beige,At least 1 accident or damage reported,Yes,3.5,6.0,Automatic
+3960,Chevrolet,Tahoe LT,2022,"2,894 mi.",Gasoline,Blue,Beige,None reported,Yes,5.3,8.0,Automatic
+3961,Tesla,Model Y Performance,2023,500 mi.,,Black,White,None reported,Yes,,,Automatic
+3962,Ford,Transit Connect XLT,2010,"169,802 mi.",Gasoline,Frozen White,Dark Gray,None reported,Yes,2.0,4.0,Automatic
+3963,GMC,Sierra 1500 Denali,2019,"43,433 mi.",Gasoline,Onyx Black,Walnut,None reported,,5.3,8.0,Automatic
+3964,Cadillac,ATS 2.0L Turbo Luxury,2016,"83,000 mi.",Gasoline,Red,Beige,None reported,Yes,2.0,4.0,Automatic
+3965,Saab,9-3 Aero,2009,"106,000 mi.",Gasoline,Red,Black,None reported,Yes,2.8,6.0,Automatic
+3966,Toyota,Sequoia SR5,2002,"244,200 mi.",Gasoline,White,–,At least 1 accident or damage reported,Yes,4.7,8.0,Automatic
+3967,Lamborghini,Gallardo LP570-4 Superleggera,2011,"16,000 mi.",Gasoline,Yellow,Black,None reported,Yes,5.2,10.0,Other
+3968,Toyota,Land Cruiser Base,2010,"269,885 mi.",Gasoline,Black,Beige,At least 1 accident or damage reported,Yes,5.7,8.0,Automatic
+3969,RAM,1500 SLT,2018,"61,802 mi.",E85 Flex Fuel,Black,Gray,None reported,Yes,3.6,6.0,Automatic
+3970,Lexus,LX 570 Three-Row,2018,"50,000 mi.",Gasoline,White,Black,None reported,Yes,5.7,8.0,Automatic
+3971,GMC,Yukon XL Denali,2023,"7,500 mi.",Gasoline,Gray,Black,None reported,Yes,6.2,8.0,Automatic
+3972,Dodge,Sprinter 2500 High Roof,2004,"55,000 mi.",Diesel,White,Gray,None reported,Yes,2.7,5.0,Automatic
+3973,BMW,M3 Base,2011,"72,277 mi.",Gasoline,Gray,Red,None reported,Yes,4.0,8.0,Other
+3974,BMW,M5 Base,2021,"13,250 mi.",Gasoline,Alpine White,Aragon Brown,None reported,,4.4,8.0,Automatic
+3975,Chevrolet,S-10 LS,2000,"133,510 mi.",E85 Flex Fuel,Blue,Black,None reported,Yes,2.2,4.0,Automatic
+3976,Porsche,Cayenne Turbo S,2014,"99,100 mi.",Gasoline,White,Black,None reported,Yes,4.8,8.0,Automatic
+3977,Nissan,370Z NISMO,2010,"29,000 mi.",Gasoline,Silver,–,None reported,Yes,3.7,6.0,Manual
+3978,Audi,Q7 Premium Plus,2023,"10,601 mi.",Hybrid,Mythos Black,Black,None reported,,3.0,,Automatic
+3979,Jeep,Wrangler Rubicon Hard Rock,2016,"67,882 mi.",Gasoline,White,Black,None reported,,3.6,,Automatic
+3980,Ford,Mustang Base,2008,"119,000 mi.",Gasoline,White,Black,At least 1 accident or damage reported,Yes,4.0,6.0,Automatic
+3981,Toyota,Supra 3.0 Premium,2022,"24,850 mi.",Gasoline,Black,Black,None reported,Yes,3.0,6.0,Automatic
+3982,Ford,Edge SEL,2021,"56,946 mi.",Gasoline,Silver,Ebony,None reported,Yes,2.0,4.0,Automatic
+3983,Volkswagen,Golf GTI 2.0T SE 4-Door,2018,"70,500 mi.",Gasoline,White,Black,None reported,Yes,2.0,4.0,Other
+3984,RAM,2500 Longhorn,2015,"72,200 mi.",Diesel,Black,Black,None reported,Yes,6.7,6.0,Automatic
+3985,Ford,Expedition Timberline,2023,"8,911 mi.",Gasoline,Dark Matter Metallic,Black Onyx,At least 1 accident or damage reported,Yes,3.5,6.0,Automatic
+3986,RAM,3500 Tradesman,2021,"57,000 mi.",Diesel,Blue,Gray,None reported,Yes,6.7,6.0,Automatic
+3987,Toyota,GR86 Premium,2023,"1,075 mi.",Gasoline,White,Black,None reported,Yes,2.4,4.0,Manual
+3988,Land,Rover Range Rover Sport HSE,2019,"42,000 mi.",Gasoline,White,Black,None reported,Yes,3.0,6.0,Other
+3989,Acura,RDX w/A-Spec Package,2023,"3,959 mi.",Gasoline,White,Black,None reported,,2.0,,Automatic
+3990,Chrysler,Pacifica Touring,2017,"87,305 mi.",–,Silver,Black,None reported,Yes,,,Automatic
+3991,Jeep,Wrangler Unlimited Sahara,2019,"57,000 mi.",Gasoline,Gray,Black,None reported,Yes,3.6,6.0,Automatic
+3992,Chevrolet,Silverado 2500 LT,2011,"240,000 mi.",Diesel,White,Black,None reported,Yes,6.6,8.0,Automatic
+3993,Kia,K5 GT-Line,2022,"22,101 mi.",Gasoline,Glacial White Pearl,Black,At least 1 accident or damage reported,Yes,1.6,4.0,Automatic
+3994,Subaru,Ascent Touring 7-Passenger,2021,"39,948 mi.",Gasoline,Ice Silver Metallic,Black,None reported,Yes,2.4,,Automatic
+3995,BMW,M3 Base,2008,"94,000 mi.",Gasoline,Gray,Red,None reported,Yes,4.0,8.0,Manual
+3996,GMC,Sierra 1500 SLE Crew Cab,2006,"167,500 mi.",Gasoline,Silver,Black,None reported,Yes,5.3,8.0,Automatic
+3997,Mazda,Mazda6 Grand Touring,2020,"35,902 mi.",Gasoline,Deep Crystal Blue Mica,Black,None reported,,2.5,4.0,Automatic
+3998,BMW,230 i,2019,"30,000 mi.",Gasoline,Blue,Beige,At least 1 accident or damage reported,Yes,2.0,4.0,Automatic
+3999,Audi,A7 3.0T Premium Plus,2018,"45,843 mi.",Gasoline,Silver,Black,None reported,Yes,3.0,6.0,Automatic
+4000,Chevrolet,Camaro 2SS,2018,"8,660 mi.",Gasoline,White,Black,None reported,Yes,6.2,8.0,Automatic
+4001,Land,Rover Range Rover Sport Supercharged Dynamic,2018,"58,100 mi.",Gasoline,Red,Black,None reported,Yes,5.0,8.0,Automatic
+4002,Ford,Mustang SVT Cobra,2003,"16,100 mi.",Gasoline,Red,Beige,None reported,Yes,4.6,8.0,Manual
+4003,Jeep,Wrangler SE,1999,"137,790 mi.",Gasoline,Red,–,None reported,Yes,2.5,4.0,Manual
+4004,BMW,750 i xDrive,2019,"33,499 mi.",Gasoline,Gray,Black,At least 1 accident or damage reported,Yes,4.4,8.0,Automatic
+4005,Buick,Lucerne CXL,2006,"110,000 mi.",Gasoline,Gold,Beige,None reported,Yes,4.6,8.0,Automatic
+4006,Chevrolet,1500 Cheyenne Extended Cab,1995,"120,000 mi.",–,White,Brown,At least 1 accident or damage reported,Yes,,,Automatic
+4007,Mitsubishi,Outlander Sport 2.4 SE,2016,"131,193 mi.",Gasoline,Black,Black,None reported,Yes,2.4,4.0,Automatic
+4008,Ford,Expedition Platinum,2018,"48,619 mi.",Gasoline,Gray,White,None reported,Yes,3.5,6.0,Automatic
+4009,Lincoln,MKZ Reserve I,2019,"36,000 mi.",Gasoline,White,Beige,None reported,Yes,2.0,4.0,Automatic
