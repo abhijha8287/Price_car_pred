@@ -25,7 +25,7 @@ A few things stood out when we first looked at the data, and they shaped most of
 ## Features we built
 
 - Mileage as a number
-- Age of the car (2025 minus model year)
+- Age of the car (2026 minus model year)
 - Miles driven per year, which tells us whether a car has been driven hard
 - Is-electric flag
 - Accident and clean title turned into simple yes/no flags
@@ -59,11 +59,11 @@ These numbers come from cross-validation, so they are an honest estimate of how 
 
 | Metric | Value |
 |---|---|
-| R² (on log price) | 0.868 |
-| RMSLE | 0.310 |
-| Mean absolute error | $11,205 |
-| Mean absolute % error | 21.3% |
-| RMSE | $70,549 |
+| R² (on log price) | 0.869 |
+| RMSLE | 0.309 |
+| Mean absolute error | $11,115 |
+| Mean absolute % error | 21.2% |
+| RMSE | $70,468 |
 
 In plain terms, a typical prediction lands within about 20% of the real price. The RMSE looks scary, but it is driven almost entirely by the few very expensive cars. The mean absolute error is a better picture of how far off a normal prediction is.
 

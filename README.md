@@ -40,14 +40,14 @@ From 5-fold cross-validation on the training data:
 
 | Metric | Value |
 |---|---|
-| R² (log price) | 0.868 |
-| RMSLE | 0.310 |
-| Mean absolute error | $11,205 |
-| Mean absolute % error | 21.3% |
+| R² (log price) | 0.869 |
+| RMSLE | 0.309 |
+| Mean absolute error | $11,115 |
+| Mean absolute % error | 21.2% |
 
 The most important features turned out to be mileage, age, engine size and brand.
 
 ## Notes
 
-- Car age is calculated as `2025 - model_year`. If you change the reference year, ages shift but predictions barely move, because model year is also a feature.
+- Car age is calculated as `2026 - model_year`. The reference year also feeds into miles driven per year, so changing it shifts predictions a little.
 - Predicted prices are rounded to the nearest dollar.
